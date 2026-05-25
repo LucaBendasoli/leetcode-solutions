@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 5
+Total de questoes resolvidas: 6
 
 ### Easy
 
@@ -12,6 +12,11 @@ Total de questoes resolvidas: 5
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+  - Question ID: 208
+  - Arquivo: `problems/medium/208_implement-trie-prefix-tree.py`
+  - Resolvido em: 21:00 - 25/05/26
 
 - [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
   - Question ID: 486
