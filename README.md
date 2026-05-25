@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 6
+Total de questoes resolvidas: 7
 
 ### Easy
 
@@ -40,4 +40,7 @@ Total de questoes resolvidas: 6
 
 ### Hard
 
-- Nenhuma questao registrada ainda.
+- [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
+  - Question ID: 466
+  - Arquivo: `problems/hard/466_count-the-repetitions.py`
+  - Resolvido em: 23:00 - 25/05/26
