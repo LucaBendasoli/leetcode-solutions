@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 4
+Total de questoes resolvidas: 5
 
 ### Easy
 
@@ -12,6 +12,11 @@ Total de questoes resolvidas: 4
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+  - Question ID: 486
+  - Arquivo: `problems/medium/486_predict-the-winner.py`
+  - Resolvido em: 20:03 - 25/05/26
 
 - [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
   - Question ID: 54
