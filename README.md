@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 2
+Total de questoes resolvidas: 3
 
 ### Easy
 
@@ -12,6 +12,11 @@ Total de questoes resolvidas: 2
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#481 Magical String](https://leetcode.com/problems/magical-string/)
+  - Question ID: 481
+  - Arquivo: `problems/medium/481_magical-string.py`
+  - Resolvido em: 18:30 - 25/05/26
 
 - [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
   - Question ID: 151
