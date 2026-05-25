@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 3
+Total de questoes resolvidas: 4
 
 ### Easy
 
@@ -12,6 +12,11 @@ Total de questoes resolvidas: 3
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  - Question ID: 54
+  - Arquivo: `problems/medium/54_spiral-matrix.py`
+  - Resolvido em: 19:00 - 25/05/26
 
 - [#481 Magical String](https://leetcode.com/problems/magical-string/)
   - Question ID: 481
