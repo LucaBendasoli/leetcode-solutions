@@ -2,11 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 1
+Total de questoes resolvidas: 2
 
 ### Easy
 
-- Nenhuma questao registrada ainda.
+- [#160 Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  - Question ID: 160
+  - Arquivo: `problems/easy/160_intersection-of-two-linked-lists.py`
+  - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
 
