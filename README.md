@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 7
+Total de questoes resolvidas: 8
 
 ### Easy
 
@@ -12,6 +12,11 @@ Total de questoes resolvidas: 7
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+  - Question ID: 393
+  - Arquivo: `problems/medium/393_utf-8-validation.py`
+  - Resolvido em: 22:03 - 27/05/26
 
 - [#208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
   - Question ID: 208
