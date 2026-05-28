@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 11
+Total de questoes resolvidas: 12
 
 ### Easy
 
@@ -17,6 +17,11 @@ Total de questoes resolvidas: 11
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+  - Question ID: 357
+  - Arquivo: `problems/medium/357_count-numbers-with-unique-digits.py`
+  - Resolvido em: 23:00 - 28/05/26
 
 - [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - Question ID: 287
