@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 9
+Total de questoes resolvidas: 10
 
 ### Easy
+
+- [#1708 Design Parking System](https://leetcode.com/problems/design-parking-system/)
+  - Question ID: 1708
+  - Arquivo: `problems/easy/1603_design-parking-system.py`
+  - Resolvido em: 11:47 - 28/05/26
 
 - [#160 Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   - Question ID: 160
