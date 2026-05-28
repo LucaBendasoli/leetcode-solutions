@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 10
+Total de questoes resolvidas: 11
 
 ### Easy
 
@@ -17,6 +17,11 @@ Total de questoes resolvidas: 10
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - Question ID: 287
+  - Arquivo: `problems/medium/287_find-the-duplicate-number.py`
+  - Resolvido em: 22:00 - 28/05/26
 
 - [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
   - Question ID: 238
