@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 15
+Total de questoes resolvidas: 16
 
 ### Easy
 
@@ -69,6 +69,11 @@ Total de questoes resolvidas: 15
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2150 Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
+  - Question ID: 2150
+  - Arquivo: `problems/hard/2040_kth-smallest-product-of-two-sorted-arrays.py`
+  - Resolvido em: 11:00 - 29/05/26
 
 - [#1638 Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/)
   - Question ID: 1638
