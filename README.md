@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 13
+Total de questoes resolvidas: 14
 
 ### Easy
 
@@ -64,6 +64,11 @@ Total de questoes resolvidas: 13
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1638 Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/)
+  - Question ID: 1638
+  - Arquivo: `problems/hard/1515_best-position-for-a-service-centre.py`
+  - Resolvido em: 01:04 - 29/05/26
 
 - [#52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
   - Question ID: 52
