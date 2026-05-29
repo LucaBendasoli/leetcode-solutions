@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 14
+Total de questoes resolvidas: 15
 
 ### Easy
+
+- [#100 Same Tree](https://leetcode.com/problems/same-tree/)
+  - Question ID: 100
+  - Arquivo: `problems/easy/100_same-tree.py`
+  - Resolvido em: 10:00 - 29/05/26
 
 - [#1708 Design Parking System](https://leetcode.com/problems/design-parking-system/)
   - Question ID: 1708
