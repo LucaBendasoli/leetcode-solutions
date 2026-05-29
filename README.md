@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 16
+Total de questoes resolvidas: 17
 
 ### Easy
+
+- [#520 Detect Capital](https://leetcode.com/problems/detect-capital/)
+  - Question ID: 520
+  - Arquivo: `problems/easy/520_detect-capital.py`
+  - Resolvido em: 20:34 - 29/05/26
 
 - [#100 Same Tree](https://leetcode.com/problems/same-tree/)
   - Question ID: 100
