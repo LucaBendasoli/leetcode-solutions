@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 12
+Total de questoes resolvidas: 13
 
 ### Easy
 
@@ -64,6 +64,11 @@ Total de questoes resolvidas: 12
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+  - Question ID: 52
+  - Arquivo: `problems/hard/52_n-queens-ii.py`
+  - Resolvido em: 00:33 - 29/05/26
 
 - [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
   - Question ID: 466
