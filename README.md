@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 17
+Total de questoes resolvidas: 18
 
 ### Easy
 
@@ -27,6 +27,11 @@ Total de questoes resolvidas: 17
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+  - Question ID: 377
+  - Arquivo: `problems/medium/377_combination-sum-iv.py`
+  - Resolvido em: 21:03 - 29/05/26
 
 - [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
   - Question ID: 357
