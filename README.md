@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 18
+Total de questoes resolvidas: 19
 
 ### Easy
+
+- [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+  - Question ID: 69
+  - Arquivo: `problems/easy/69_sqrtx.py`
+  - Resolvido em: 19:00 - 30/05/26
 
 - [#520 Detect Capital](https://leetcode.com/problems/detect-capital/)
   - Question ID: 520
