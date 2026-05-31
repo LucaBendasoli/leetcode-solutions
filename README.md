@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 19
+Total de questoes resolvidas: 20
 
 ### Easy
 
@@ -32,6 +32,11 @@ Total de questoes resolvidas: 19
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+  - Question ID: 402
+  - Arquivo: `problems/medium/402_remove-k-digits.py`
+  - Resolvido em: 17:00 - 31/05/26
 
 - [#377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
   - Question ID: 377
