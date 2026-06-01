@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 20
+Total de questoes resolvidas: 21
 
 ### Easy
 
@@ -89,6 +89,11 @@ Total de questoes resolvidas: 20
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1197 Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
+  - Question ID: 1197
+  - Arquivo: `problems/hard/1106_parsing-a-boolean-expression.py`
+  - Resolvido em: 11:04 - 01/06/26
 
 - [#2150 Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
   - Question ID: 2150
