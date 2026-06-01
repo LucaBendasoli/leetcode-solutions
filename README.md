@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 23
+Total de questoes resolvidas: 24
 
 ### Easy
 
@@ -32,6 +32,11 @@ Total de questoes resolvidas: 23
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#235 Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  - Question ID: 235
+  - Arquivo: `problems/medium/235_lowest-common-ancestor-of-a-binary-search-tree.py`
+  - Resolvido em: 23:00 - 01/06/26
 
 - [#274 H-Index](https://leetcode.com/problems/h-index/)
   - Question ID: 274
