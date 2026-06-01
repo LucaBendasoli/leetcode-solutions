@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 21
+Total de questoes resolvidas: 22
 
 ### Easy
 
@@ -89,6 +89,11 @@ Total de questoes resolvidas: 21
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1740 Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)
+  - Question ID: 1740
+  - Arquivo: `problems/hard/1617_count-subtrees-with-max-distance-between-cities.py`
+  - Resolvido em: 22:00 - 01/06/26
 
 - [#1197 Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
   - Question ID: 1197
