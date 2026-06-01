@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 22
+Total de questoes resolvidas: 23
 
 ### Easy
 
@@ -32,6 +32,11 @@ Total de questoes resolvidas: 22
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#274 H-Index](https://leetcode.com/problems/h-index/)
+  - Question ID: 274
+  - Arquivo: `problems/medium/274_h-index.py`
+  - Resolvido em: 22:30 - 01/06/26
 
 - [#402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
   - Question ID: 402
