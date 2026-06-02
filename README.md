@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 27
+Total de questoes resolvidas: 28
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 27
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+  - Question ID: 352
+  - Arquivo: `problems/hard/352_data-stream-as-disjoint-intervals.py`
+  - Resolvido em: 22:03 - 02/06/26
 
 - [#65 Valid Number](https://leetcode.com/problems/valid-number/)
   - Question ID: 65
