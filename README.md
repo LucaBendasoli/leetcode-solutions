@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 25
+Total de questoes resolvidas: 26
 
 ### Easy
+
+- [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - Question ID: 283
+  - Arquivo: `problems/easy/283_move-zeroes.py`
+  - Resolvido em: 11:27 - 02/06/26
 
 - [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
   - Question ID: 69
