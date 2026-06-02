@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 26
+Total de questoes resolvidas: 27
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 26
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#65 Valid Number](https://leetcode.com/problems/valid-number/)
+  - Question ID: 65
+  - Arquivo: `problems/hard/65_valid-number.py`
+  - Resolvido em: 21:30 - 02/06/26
 
 - [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
   - Question ID: 403
