@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 24
+Total de questoes resolvidas: 25
 
 ### Easy
 
@@ -99,6 +99,11 @@ Total de questoes resolvidas: 24
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
+  - Question ID: 403
+  - Arquivo: `problems/hard/403_frog-jump.py`
+  - Resolvido em: 11:03 - 02/06/26
 
 - [#1740 Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)
   - Question ID: 1740
