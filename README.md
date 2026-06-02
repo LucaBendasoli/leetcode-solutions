@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 28
+Total de questoes resolvidas: 29
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 28
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1996 Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
+  - Question ID: 1996
+  - Arquivo: `problems/hard/1866_number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py`
+  - Resolvido em: 23:03 - 02/06/26
 
 - [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
   - Question ID: 352
