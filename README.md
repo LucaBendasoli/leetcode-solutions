@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 29
+Total de questoes resolvidas: 30
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 29
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1133 Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+  - Question ID: 1133
+  - Arquivo: `problems/hard/1163_last-substring-in-lexicographical-order.py`
+  - Resolvido em: 10:00 - 03/06/26
 
 - [#1996 Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
   - Question ID: 1996
