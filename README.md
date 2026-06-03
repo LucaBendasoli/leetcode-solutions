@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 32
+Total de questoes resolvidas: 33
 
 ### Easy
+
+- [#387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+  - Question ID: 387
+  - Arquivo: `problems/easy/387_first-unique-character-in-a-string.py`
+  - Resolvido em: 23:03 - 03/06/26
 
 - [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   - Question ID: 283
