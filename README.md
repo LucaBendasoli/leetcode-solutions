@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 30
+Total de questoes resolvidas: 31
 
 ### Easy
 
@@ -37,6 +37,11 @@ Total de questoes resolvidas: 30
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+  - Question ID: 173
+  - Arquivo: `problems/medium/173_binary-search-tree-iterator.py`
+  - Resolvido em: 10:33 - 03/06/26
 
 - [#235 Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
   - Question ID: 235
