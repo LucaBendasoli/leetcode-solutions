@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 31
+Total de questoes resolvidas: 32
 
 ### Easy
 
@@ -37,6 +37,11 @@ Total de questoes resolvidas: 31
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+  - Question ID: 113
+  - Arquivo: `problems/medium/113_path-sum-ii.py`
+  - Resolvido em: 22:00 - 03/06/26
 
 - [#173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
   - Question ID: 173
