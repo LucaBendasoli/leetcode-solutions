@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 33
+Total de questoes resolvidas: 34
 
 ### Easy
+
+- [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
+  - Question ID: 338
+  - Arquivo: `problems/easy/338_counting-bits.py`
+  - Resolvido em: 11:50 - 04/06/26
 
 - [#387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   - Question ID: 387
