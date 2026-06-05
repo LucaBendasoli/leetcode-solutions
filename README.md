@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 39
+Total de questoes resolvidas: 40
 
 ### Easy
+
+- [#1018 Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+  - Question ID: 1018
+  - Arquivo: `problems/easy/976_largest-perimeter-triangle.py`
+  - Resolvido em: 20:37 - 05/06/26
 
 - [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
   - Question ID: 257
