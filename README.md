@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 38
+Total de questoes resolvidas: 39
 
 ### Easy
 
@@ -134,6 +134,11 @@ Total de questoes resolvidas: 38
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#127 Word Ladder](https://leetcode.com/problems/word-ladder/)
+  - Question ID: 127
+  - Arquivo: `problems/hard/127_word-ladder.py`
+  - Resolvido em: 11:00 - 05/06/26
 
 - [#218 The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
   - Question ID: 218
