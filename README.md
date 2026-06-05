@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 40
+Total de questoes resolvidas: 41
 
 ### Easy
 
@@ -62,6 +62,11 @@ Total de questoes resolvidas: 40
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#810 Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
+  - Question ID: 810
+  - Arquivo: `problems/medium/794_valid-tic-tac-toe-state.py`
+  - Resolvido em: 20:55 - 05/06/26
 
 - [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
   - Question ID: 113
