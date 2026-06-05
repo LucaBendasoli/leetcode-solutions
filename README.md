@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 37
+Total de questoes resolvidas: 38
 
 ### Easy
 
@@ -134,6 +134,11 @@ Total de questoes resolvidas: 37
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#218 The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+  - Question ID: 218
+  - Arquivo: `problems/hard/218_the-skyline-problem.py`
+  - Resolvido em: 10:00 - 05/06/26
 
 - [#2311 Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
   - Question ID: 2311
