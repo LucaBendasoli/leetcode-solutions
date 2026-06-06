@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 41
+Total de questoes resolvidas: 42
 
 ### Easy
+
+- [#169 Majority Element](https://leetcode.com/problems/majority-element/)
+  - Question ID: 169
+  - Arquivo: `problems/easy/169_majority-element.py`
+  - Resolvido em: 19:00 - 06/06/26
 
 - [#1018 Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
   - Question ID: 1018
