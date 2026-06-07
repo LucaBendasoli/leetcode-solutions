@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 42
+Total de questoes resolvidas: 43
 
 ### Easy
 
@@ -67,6 +67,11 @@ Total de questoes resolvidas: 42
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#91 Decode Ways](https://leetcode.com/problems/decode-ways/)
+  - Question ID: 91
+  - Arquivo: `problems/medium/91_decode-ways.py`
+  - Resolvido em: 17:00 - 07/06/26
 
 - [#810 Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
   - Question ID: 810
