@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 44
+Total de questoes resolvidas: 45
 
 ### Easy
+
+- [#27 Remove Element](https://leetcode.com/problems/remove-element/)
+  - Question ID: 27
+  - Arquivo: `problems/easy/27_remove-element.py`
+  - Resolvido em: 22:30 - 08/06/26
 
 - [#169 Majority Element](https://leetcode.com/problems/majority-element/)
   - Question ID: 169
