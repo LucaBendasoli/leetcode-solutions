@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 45
+Total de questoes resolvidas: 46
 
 ### Easy
+
+- [#414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+  - Question ID: 414
+  - Arquivo: `problems/easy/414_third-maximum-number.py`
+  - Resolvido em: 23:00 - 08/06/26
 
 - [#27 Remove Element](https://leetcode.com/problems/remove-element/)
   - Question ID: 27
