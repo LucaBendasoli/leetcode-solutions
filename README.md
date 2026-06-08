@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 43
+Total de questoes resolvidas: 44
 
 ### Easy
 
@@ -154,6 +154,11 @@ Total de questoes resolvidas: 43
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1559 Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+  - Question ID: 1559
+  - Arquivo: `problems/hard/1463_cherry-pickup-ii.py`
+  - Resolvido em: 11:08 - 08/06/26
 
 - [#127 Word Ladder](https://leetcode.com/problems/word-ladder/)
   - Question ID: 127
