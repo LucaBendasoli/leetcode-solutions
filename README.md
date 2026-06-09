@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 47
+Total de questoes resolvidas: 48
 
 ### Easy
 
@@ -77,6 +77,11 @@ Total de questoes resolvidas: 47
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#56 Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  - Question ID: 56
+  - Arquivo: `problems/medium/56_merge-intervals.py`
+  - Resolvido em: 11:27 - 09/06/26
 
 - [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
   - Question ID: 331
