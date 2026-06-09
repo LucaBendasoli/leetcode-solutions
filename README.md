@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 49
+Total de questoes resolvidas: 50
 
 ### Easy
 
@@ -179,6 +179,11 @@ Total de questoes resolvidas: 49
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1836 Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/)
+  - Question ID: 1836
+  - Arquivo: `problems/hard/1735_count-ways-to-make-array-with-product.py`
+  - Resolvido em: 22:01 - 09/06/26
 
 - [#1559 Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
   - Question ID: 1559
