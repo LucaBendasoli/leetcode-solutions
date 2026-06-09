@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 50
+Total de questoes resolvidas: 51
 
 ### Easy
 
@@ -179,6 +179,11 @@ Total de questoes resolvidas: 50
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2344 Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
+  - Question ID: 2344
+  - Arquivo: `problems/hard/2258_escape-the-spreading-fire.py`
+  - Resolvido em: 23:03 - 09/06/26
 
 - [#1836 Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/)
   - Question ID: 1836
