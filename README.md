@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 48
+Total de questoes resolvidas: 49
 
 ### Easy
+
+- [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+  - Question ID: 168
+  - Arquivo: `problems/easy/168_excel-sheet-column-title.py`
+  - Resolvido em: 21:30 - 09/06/26
 
 - [#414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
   - Question ID: 414
