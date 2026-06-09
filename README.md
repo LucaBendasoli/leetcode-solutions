@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 46
+Total de questoes resolvidas: 47
 
 ### Easy
 
@@ -77,6 +77,11 @@ Total de questoes resolvidas: 46
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+  - Question ID: 331
+  - Arquivo: `problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py`
+  - Resolvido em: 11:00 - 09/06/26
 
 - [#91 Decode Ways](https://leetcode.com/problems/decode-ways/)
   - Question ID: 91
