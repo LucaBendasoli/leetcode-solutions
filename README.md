@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 54
+Total de questoes resolvidas: 55
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 54
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#209 Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+  - Question ID: 209
+  - Arquivo: `problems/medium/209_minimum-size-subarray-sum.py`
+  - Resolvido em: 23:03 - 10/06/26
 
 - [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
   - Question ID: 49
