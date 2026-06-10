@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 53
+Total de questoes resolvidas: 54
 
 ### Easy
 
@@ -87,6 +87,11 @@ Total de questoes resolvidas: 53
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+  - Question ID: 49
+  - Arquivo: `problems/medium/49_group-anagrams.py`
+  - Resolvido em: 22:03 - 10/06/26
 
 - [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
   - Question ID: 316
