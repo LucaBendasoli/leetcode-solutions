@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 51
+Total de questoes resolvidas: 52
 
 ### Easy
+
+- [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+  - Question ID: 485
+  - Arquivo: `problems/easy/485_max-consecutive-ones.py`
+  - Resolvido em: 10:30 - 10/06/26
 
 - [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
   - Question ID: 168
