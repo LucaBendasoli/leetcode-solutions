@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 56
+Total de questoes resolvidas: 57
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 56
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  - Question ID: 81
+  - Arquivo: `problems/medium/81_search-in-rotated-sorted-array-ii.py`
+  - Resolvido em: 22:00 - 11/06/26
 
 - [#209 Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
   - Question ID: 209
