@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 55
+Total de questoes resolvidas: 56
 
 ### Easy
+
+- [#1677 Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+  - Question ID: 1677
+  - Arquivo: `problems/easy/1572_matrix-diagonal-sum.py`
+  - Resolvido em: 11:47 - 11/06/26
 
 - [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
   - Question ID: 485
