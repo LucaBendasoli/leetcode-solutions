@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 57
+Total de questoes resolvidas: 58
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 57
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
+  - Question ID: 313
+  - Arquivo: `problems/medium/313_super-ugly-number.py`
+  - Resolvido em: 23:00 - 11/06/26
 
 - [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
   - Question ID: 81
