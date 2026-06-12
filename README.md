@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 59
+Total de questoes resolvidas: 60
 
 ### Easy
 
@@ -214,6 +214,11 @@ Total de questoes resolvidas: 59
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1887 Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)
+  - Question ID: 1887
+  - Arquivo: `problems/hard/1761_minimum-degree-of-a-connected-trio-in-a-graph.py`
+  - Resolvido em: 01:03 - 12/06/26
 
 - [#1881 Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/)
   - Question ID: 1881
