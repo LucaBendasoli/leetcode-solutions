@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 61
+Total de questoes resolvidas: 62
 
 ### Easy
 
@@ -219,6 +219,11 @@ Total de questoes resolvidas: 61
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#927 Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
+  - Question ID: 927
+  - Arquivo: `problems/hard/891_sum-of-subsequence-widths.py`
+  - Resolvido em: 11:00 - 12/06/26
 
 - [#1887 Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)
   - Question ID: 1887
