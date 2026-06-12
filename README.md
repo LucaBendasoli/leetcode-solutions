@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 63
+Total de questoes resolvidas: 64
 
 ### Easy
 
@@ -97,6 +97,11 @@ Total de questoes resolvidas: 63
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+  - Question ID: 216
+  - Arquivo: `problems/medium/216_combination-sum-iii.py`
+  - Resolvido em: 20:58 - 12/06/26
 
 - [#189 Rotate Array](https://leetcode.com/problems/rotate-array/)
   - Question ID: 189
