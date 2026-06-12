@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 58
+Total de questoes resolvidas: 59
 
 ### Easy
 
@@ -214,6 +214,11 @@ Total de questoes resolvidas: 58
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1881 Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/)
+  - Question ID: 1881
+  - Arquivo: `problems/hard/1755_closest-subsequence-sum.py`
+  - Resolvido em: 00:30 - 12/06/26
 
 - [#2344 Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
   - Question ID: 2344
