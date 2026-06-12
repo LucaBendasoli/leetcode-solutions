@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 62
+Total de questoes resolvidas: 63
 
 ### Easy
+
+- [#1791 Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+  - Question ID: 1791
+  - Arquivo: `problems/easy/1672_richest-customer-wealth.py`
+  - Resolvido em: 20:34 - 12/06/26
 
 - [#1677 Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
   - Question ID: 1677
