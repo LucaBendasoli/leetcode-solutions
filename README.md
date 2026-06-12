@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 60
+Total de questoes resolvidas: 61
 
 ### Easy
 
@@ -92,6 +92,11 @@ Total de questoes resolvidas: 60
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#189 Rotate Array](https://leetcode.com/problems/rotate-array/)
+  - Question ID: 189
+  - Arquivo: `problems/medium/189_rotate-array.py`
+  - Resolvido em: 10:00 - 12/06/26
 
 - [#313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
   - Question ID: 313
