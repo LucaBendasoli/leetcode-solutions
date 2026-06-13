@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 64
+Total de questoes resolvidas: 65
 
 ### Easy
+
+- [#389 Find the Difference](https://leetcode.com/problems/find-the-difference/)
+  - Question ID: 389
+  - Arquivo: `problems/easy/389_find-the-difference.py`
+  - Resolvido em: 19:00 - 13/06/26
 
 - [#1791 Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
   - Question ID: 1791
