@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 65
+Total de questoes resolvidas: 66
 
 ### Easy
 
@@ -102,6 +102,11 @@ Total de questoes resolvidas: 65
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - Question ID: 142
+  - Arquivo: `problems/medium/142_linked-list-cycle-ii.py`
+  - Resolvido em: 17:00 - 14/06/26
 
 - [#216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
   - Question ID: 216
