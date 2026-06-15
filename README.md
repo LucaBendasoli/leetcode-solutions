@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 66
+Total de questoes resolvidas: 67
 
 ### Easy
 
@@ -239,6 +239,11 @@ Total de questoes resolvidas: 66
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
+  - Question ID: 460
+  - Arquivo: `problems/hard/460_lfu-cache.py`
+  - Resolvido em: 22:00 - 15/06/26
 
 - [#927 Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
   - Question ID: 927
