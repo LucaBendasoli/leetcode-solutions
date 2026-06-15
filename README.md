@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 68
+Total de questoes resolvidas: 69
 
 ### Easy
+
+- [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+  - Question ID: 58
+  - Arquivo: `problems/easy/58_length-of-last-word.py`
+  - Resolvido em: 23:00 - 15/06/26
 
 - [#389 Find the Difference](https://leetcode.com/problems/find-the-difference/)
   - Question ID: 389
