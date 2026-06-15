@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 67
+Total de questoes resolvidas: 68
 
 ### Easy
 
@@ -102,6 +102,11 @@ Total de questoes resolvidas: 67
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#146 LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - Question ID: 146
+  - Arquivo: `problems/medium/146_lru-cache.py`
+  - Resolvido em: 22:30 - 15/06/26
 
 - [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   - Question ID: 142
