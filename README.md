@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 71
+Total de questoes resolvidas: 72
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 71
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#494 Target Sum](https://leetcode.com/problems/target-sum/)
+  - Question ID: 494
+  - Arquivo: `problems/medium/494_target-sum.py`
+  - Resolvido em: 21:30 - 16/06/26
 
 - [#15 3Sum](https://leetcode.com/problems/3sum/)
   - Question ID: 15
