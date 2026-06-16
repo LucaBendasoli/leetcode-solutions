@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 70
+Total de questoes resolvidas: 71
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 70
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#15 3Sum](https://leetcode.com/problems/3sum/)
+  - Question ID: 15
+  - Arquivo: `problems/medium/15_3sum.py`
+  - Resolvido em: 11:27 - 16/06/26
 
 - [#117 Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - Question ID: 117
