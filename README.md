@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 74
+Total de questoes resolvidas: 75
 
 ### Easy
 
@@ -269,6 +269,11 @@ Total de questoes resolvidas: 74
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+  - Question ID: 332
+  - Arquivo: `problems/hard/332_reconstruct-itinerary.py`
+  - Resolvido em: 11:08 - 17/06/26
 
 - [#1728 Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
   - Question ID: 1728
