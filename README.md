@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 73
+Total de questoes resolvidas: 74
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 73
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#77 Combinations](https://leetcode.com/problems/combinations/)
+  - Question ID: 77
+  - Arquivo: `problems/medium/77_combinations.py`
+  - Resolvido em: 10:30 - 17/06/26
 
 - [#494 Target Sum](https://leetcode.com/problems/target-sum/)
   - Question ID: 494
