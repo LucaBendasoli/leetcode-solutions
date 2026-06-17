@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 75
+Total de questoes resolvidas: 76
 
 ### Easy
 
@@ -107,6 +107,11 @@ Total de questoes resolvidas: 75
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#192 Word Frequency](https://leetcode.com/problems/word-frequency/)
+  - Question ID: 192
+  - Arquivo: `problems/medium/192_word-frequency.py`
+  - Resolvido em: 22:00 - 17/06/26
 
 - [#77 Combinations](https://leetcode.com/problems/combinations/)
   - Question ID: 77
