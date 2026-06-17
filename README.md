@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 76
+Total de questoes resolvidas: 77
 
 ### Easy
+
+- [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - Question ID: 21
+  - Arquivo: `problems/easy/21_merge-two-sorted-lists.py`
+  - Resolvido em: 23:00 - 17/06/26
 
 - [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
   - Question ID: 58
