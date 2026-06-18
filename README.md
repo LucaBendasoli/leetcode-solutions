@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 77
+Total de questoes resolvidas: 78
 
 ### Easy
+
+- [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - Question ID: 26
+  - Arquivo: `problems/easy/26_remove-duplicates-from-sorted-array.py`
+  - Resolvido em: 11:47 - 18/06/26
 
 - [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
   - Question ID: 21
