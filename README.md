@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 79
+Total de questoes resolvidas: 80
 
 ### Easy
+
+- [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+  - Question ID: 125
+  - Arquivo: `problems/easy/125_valid-palindrome.py`
+  - Resolvido em: 23:03 - 18/06/26
 
 - [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Question ID: 26
