@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 78
+Total de questoes resolvidas: 79
 
 ### Easy
 
@@ -117,6 +117,11 @@ Total de questoes resolvidas: 78
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  - Question ID: 98
+  - Arquivo: `problems/medium/98_validate-binary-search-tree.py`
+  - Resolvido em: 22:00 - 18/06/26
 
 - [#192 Word Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192
