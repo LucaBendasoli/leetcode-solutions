@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 84
+Total de questoes resolvidas: 85
 
 ### Easy
 
@@ -132,6 +132,11 @@ Total de questoes resolvidas: 84
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#137 Single Number II](https://leetcode.com/problems/single-number-ii/)
+  - Question ID: 137
+  - Arquivo: `problems/medium/137_single-number-ii.py`
+  - Resolvido em: 20:55 - 19/06/26
 
 - [#98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
   - Question ID: 98
