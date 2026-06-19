@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 80
+Total de questoes resolvidas: 81
 
 ### Easy
 
@@ -294,6 +294,11 @@ Total de questoes resolvidas: 80
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1344 Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)
+  - Question ID: 1344
+  - Arquivo: `problems/hard/1224_maximum-equal-frequency.py`
+  - Resolvido em: 01:00 - 19/06/26
 
 - [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
   - Question ID: 332
