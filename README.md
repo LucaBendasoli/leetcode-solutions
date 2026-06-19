@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 82
+Total de questoes resolvidas: 83
 
 ### Easy
 
@@ -299,6 +299,11 @@ Total de questoes resolvidas: 82
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#931 Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+  - Question ID: 931
+  - Arquivo: `problems/hard/895_maximum-frequency-stack.py`
+  - Resolvido em: 11:08 - 19/06/26
 
 - [#1344 Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)
   - Question ID: 1344
