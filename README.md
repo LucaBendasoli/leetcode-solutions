@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 81
+Total de questoes resolvidas: 82
 
 ### Easy
+
+- [#344 Reverse String](https://leetcode.com/problems/reverse-string/)
+  - Question ID: 344
+  - Arquivo: `problems/easy/344_reverse-string.py`
+  - Resolvido em: 10:00 - 19/06/26
 
 - [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
   - Question ID: 125
