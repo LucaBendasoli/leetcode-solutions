@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 86
+Total de questoes resolvidas: 87
 
 ### Easy
+
+- [#476 Number Complement](https://leetcode.com/problems/number-complement/)
+  - Question ID: 476
+  - Arquivo: `problems/easy/476_number-complement.py`
+  - Resolvido em: 10:30 - 24/06/26
 
 - [#202 Happy Number](https://leetcode.com/problems/happy-number/)
   - Question ID: 202
