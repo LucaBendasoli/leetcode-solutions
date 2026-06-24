@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 89
+Total de questoes resolvidas: 90
 
 ### Easy
+
+- [#190 Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+  - Question ID: 190
+  - Arquivo: `problems/easy/190_reverse-bits.py`
+  - Resolvido em: 23:03 - 24/06/26
 
 - [#476 Number Complement](https://leetcode.com/problems/number-complement/)
   - Question ID: 476
