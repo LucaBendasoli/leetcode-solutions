@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 88
+Total de questoes resolvidas: 89
 
 ### Easy
 
@@ -137,6 +137,11 @@ Total de questoes resolvidas: 88
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#474 Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+  - Question ID: 474
+  - Arquivo: `problems/medium/474_ones-and-zeroes.py`
+  - Resolvido em: 22:00 - 24/06/26
 
 - [#71 Simplify Path](https://leetcode.com/problems/simplify-path/)
   - Question ID: 71
