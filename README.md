@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 85
+Total de questoes resolvidas: 86
 
 ### Easy
 
@@ -309,6 +309,11 @@ Total de questoes resolvidas: 85
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1733 Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)
+  - Question ID: 1733
+  - Arquivo: `problems/hard/1610_maximum-number-of-visible-points.py`
+  - Resolvido em: 10:03 - 24/06/26
 
 - [#931 Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
   - Question ID: 931
