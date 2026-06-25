@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 90
+Total de questoes resolvidas: 91
 
 ### Easy
+
+- [#566 Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+  - Question ID: 566
+  - Arquivo: `problems/easy/566_reshape-the-matrix.py`
+  - Resolvido em: 11:47 - 25/06/26
 
 - [#190 Reverse Bits](https://leetcode.com/problems/reverse-bits/)
   - Question ID: 190
