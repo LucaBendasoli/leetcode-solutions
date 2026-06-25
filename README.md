@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 91
+Total de questoes resolvidas: 92
 
 ### Easy
 
@@ -147,6 +147,11 @@ Total de questoes resolvidas: 91
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - Question ID: 153
+  - Arquivo: `problems/medium/153_find-minimum-in-rotated-sorted-array.py`
+  - Resolvido em: 22:00 - 25/06/26
 
 - [#474 Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
   - Question ID: 474
