@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 92
+Total de questoes resolvidas: 93
 
 ### Easy
 
@@ -147,6 +147,11 @@ Total de questoes resolvidas: 92
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#307 Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+  - Question ID: 307
+  - Arquivo: `problems/medium/307_range-sum-query-mutable.py`
+  - Resolvido em: 23:03 - 25/06/26
 
 - [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - Question ID: 153
