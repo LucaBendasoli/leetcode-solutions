@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 94
+Total de questoes resolvidas: 95
 
 ### Easy
+
+- [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  - Question ID: 409
+  - Arquivo: `problems/easy/409_longest-palindrome.py`
+  - Resolvido em: 10:00 - 26/06/26
 
 - [#566 Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
   - Question ID: 566
