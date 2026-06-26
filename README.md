@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 95
+Total de questoes resolvidas: 96
 
 ### Easy
 
@@ -349,6 +349,11 @@ Total de questoes resolvidas: 95
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#381 Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
+  - Question ID: 381
+  - Arquivo: `problems/hard/381_insert-delete-getrandom-o1-duplicates-allowed.py`
+  - Resolvido em: 11:08 - 26/06/26
 
 - [#1000 Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)
   - Question ID: 1000
