@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 97
+Total de questoes resolvidas: 98
 
 ### Easy
 
@@ -157,6 +157,11 @@ Total de questoes resolvidas: 97
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+  - Question ID: 304
+  - Arquivo: `problems/medium/304_range-sum-query-2d-immutable.py`
+  - Resolvido em: 20:55 - 26/06/26
 
 - [#307 Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
   - Question ID: 307
