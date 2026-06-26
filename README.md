@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 93
+Total de questoes resolvidas: 94
 
 ### Easy
 
@@ -344,6 +344,11 @@ Total de questoes resolvidas: 93
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1000 Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)
+  - Question ID: 1000
+  - Arquivo: `problems/hard/960_delete-columns-to-make-sorted-iii.py`
+  - Resolvido em: 01:03 - 26/06/26
 
 - [#1733 Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)
   - Question ID: 1733
