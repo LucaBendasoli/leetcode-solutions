@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 96
+Total de questoes resolvidas: 97
 
 ### Easy
+
+- [#1781 Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+  - Question ID: 1781
+  - Arquivo: `problems/easy/1662_check-if-two-string-arrays-are-equivalent.py`
+  - Resolvido em: 20:37 - 26/06/26
 
 - [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
   - Question ID: 409
