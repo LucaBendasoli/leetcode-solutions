@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 98
+Total de questoes resolvidas: 99
 
 ### Easy
 
@@ -157,6 +157,11 @@ Total de questoes resolvidas: 98
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#86 Partition List](https://leetcode.com/problems/partition-list/)
+  - Question ID: 86
+  - Arquivo: `problems/medium/86_partition-list.py`
+  - Resolvido em: 19:03 - 27/06/26
 
 - [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
   - Question ID: 304
