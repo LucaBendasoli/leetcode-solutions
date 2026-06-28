@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 99
+Total de questoes resolvidas: 100
 
 ### Easy
 
@@ -364,6 +364,11 @@ Total de questoes resolvidas: 99
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+  - Question ID: 42
+  - Arquivo: `problems/hard/42_trapping-rain-water.py`
+  - Resolvido em: 17:00 - 28/06/26
 
 - [#381 Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
   - Question ID: 381
