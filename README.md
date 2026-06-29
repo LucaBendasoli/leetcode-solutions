@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 103
+Total de questoes resolvidas: 104
 
 ### Easy
+
+- [#326 Power of Three](https://leetcode.com/problems/power-of-three/)
+  - Question ID: 326
+  - Arquivo: `problems/easy/326_power-of-three.py`
+  - Resolvido em: 23:00 - 29/06/26
 
 - [#1781 Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
   - Question ID: 1781
