@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 102
+Total de questoes resolvidas: 103
 
 ### Easy
 
@@ -157,6 +157,11 @@ Total de questoes resolvidas: 102
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#417 Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+  - Question ID: 417
+  - Arquivo: `problems/medium/417_pacific-atlantic-water-flow.py`
+  - Resolvido em: 22:30 - 29/06/26
 
 - [#86 Partition List](https://leetcode.com/problems/partition-list/)
   - Question ID: 86
