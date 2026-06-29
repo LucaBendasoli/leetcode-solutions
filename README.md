@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 100
+Total de questoes resolvidas: 101
 
 ### Easy
 
@@ -364,6 +364,11 @@ Total de questoes resolvidas: 100
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#949 Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
+  - Question ID: 949
+  - Arquivo: `problems/hard/913_cat-and-mouse.py`
+  - Resolvido em: 11:03 - 29/06/26
 
 - [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
   - Question ID: 42
