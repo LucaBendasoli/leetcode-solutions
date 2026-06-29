@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 101
+Total de questoes resolvidas: 102
 
 ### Easy
 
@@ -364,6 +364,11 @@ Total de questoes resolvidas: 101
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#587 Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+  - Question ID: 587
+  - Arquivo: `problems/hard/587_erect-the-fence.py`
+  - Resolvido em: 22:08 - 29/06/26
 
 - [#949 Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
   - Question ID: 949
