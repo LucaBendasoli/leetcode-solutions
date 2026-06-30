@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 104
+Total de questoes resolvidas: 105
 
 ### Easy
+
+- [#401 Binary Watch](https://leetcode.com/problems/binary-watch/)
+  - Question ID: 401
+  - Arquivo: `problems/easy/401_binary-watch.py`
+  - Resolvido em: 11:00 - 30/06/26
 
 - [#326 Power of Three](https://leetcode.com/problems/power-of-three/)
   - Question ID: 326
