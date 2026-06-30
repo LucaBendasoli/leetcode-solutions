@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 107
+Total de questoes resolvidas: 108
 
 ### Easy
 
@@ -384,6 +384,11 @@ Total de questoes resolvidas: 107
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+  - Question ID: 239
+  - Arquivo: `problems/hard/239_sliding-window-maximum.py`
+  - Resolvido em: 22:03 - 30/06/26
 
 - [#391 Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
   - Question ID: 391
