@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 105
+Total de questoes resolvidas: 106
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 105
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#433 Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+  - Question ID: 433
+  - Arquivo: `problems/medium/433_minimum-genetic-mutation.py`
+  - Resolvido em: 11:27 - 30/06/26
 
 - [#417 Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
   - Question ID: 417
