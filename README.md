@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 106
+Total de questoes resolvidas: 107
 
 ### Easy
 
@@ -384,6 +384,11 @@ Total de questoes resolvidas: 106
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#391 Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+  - Question ID: 391
+  - Arquivo: `problems/hard/391_perfect-rectangle.py`
+  - Resolvido em: 21:30 - 30/06/26
 
 - [#587 Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
   - Question ID: 587
