@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 108
+Total de questoes resolvidas: 109
 
 ### Easy
 
@@ -384,6 +384,11 @@ Total de questoes resolvidas: 108
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - Question ID: 25
+  - Arquivo: `problems/hard/25_reverse-nodes-in-k-group.py`
+  - Resolvido em: 10:03 - 01/07/26
 
 - [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
   - Question ID: 239
