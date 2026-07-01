@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 109
+Total de questoes resolvidas: 110
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 109
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#450 Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+  - Question ID: 450
+  - Arquivo: `problems/medium/450_delete-node-in-a-bst.py`
+  - Resolvido em: 10:30 - 01/07/26
 
 - [#433 Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
   - Question ID: 433
