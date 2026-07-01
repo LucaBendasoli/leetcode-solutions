@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 110
+Total de questoes resolvidas: 111
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 110
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - Question ID: 215
+  - Arquivo: `problems/medium/215_kth-largest-element-in-an-array.py`
+  - Resolvido em: 11:00 - 01/07/26
 
 - [#450 Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
   - Question ID: 450
