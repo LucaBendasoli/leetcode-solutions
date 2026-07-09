@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 112
+Total de questoes resolvidas: 113
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 112
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#134 Gas Station](https://leetcode.com/problems/gas-station/)
+  - Question ID: 134
+  - Arquivo: `problems/medium/134_gas-station.py`
+  - Resolvido em: 23:00 - 09/07/26
 
 - [#102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
   - Question ID: 102
