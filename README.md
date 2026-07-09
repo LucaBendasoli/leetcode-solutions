@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 111
+Total de questoes resolvidas: 112
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 111
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  - Question ID: 102
+  - Arquivo: `problems/medium/102_binary-tree-level-order-traversal.py`
+  - Resolvido em: 22:00 - 09/07/26
 
 - [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - Question ID: 215
