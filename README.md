@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 115
+Total de questoes resolvidas: 116
 
 ### Easy
 
@@ -409,6 +409,11 @@ Total de questoes resolvidas: 115
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
+  - Question ID: 321
+  - Arquivo: `problems/hard/321_create-maximum-number.py`
+  - Resolvido em: 11:03 - 10/07/26
 
 - [#1789 Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/)
   - Question ID: 1789
