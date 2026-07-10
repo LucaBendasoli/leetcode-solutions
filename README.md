@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 117
+Total de questoes resolvidas: 118
 
 ### Easy
 
@@ -172,6 +172,11 @@ Total de questoes resolvidas: 117
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#47 Permutations II](https://leetcode.com/problems/permutations-ii/)
+  - Question ID: 47
+  - Arquivo: `problems/medium/47_permutations-ii.py`
+  - Resolvido em: 20:58 - 10/07/26
 
 - [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
   - Question ID: 328
