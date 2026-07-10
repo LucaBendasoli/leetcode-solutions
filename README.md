@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 116
+Total de questoes resolvidas: 117
 
 ### Easy
+
+- [#2042 Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+  - Question ID: 2042
+  - Arquivo: `problems/easy/1913_maximum-product-difference-between-two-pairs.py`
+  - Resolvido em: 20:34 - 10/07/26
 
 - [#401 Binary Watch](https://leetcode.com/problems/binary-watch/)
   - Question ID: 401
