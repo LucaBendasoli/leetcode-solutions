@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 114
+Total de questoes resolvidas: 115
 
 ### Easy
 
@@ -167,6 +167,11 @@ Total de questoes resolvidas: 114
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+  - Question ID: 328
+  - Arquivo: `problems/medium/328_odd-even-linked-list.py`
+  - Resolvido em: 10:00 - 10/07/26
 
 - [#134 Gas Station](https://leetcode.com/problems/gas-station/)
   - Question ID: 134
