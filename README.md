@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 113
+Total de questoes resolvidas: 114
 
 ### Easy
 
@@ -404,6 +404,11 @@ Total de questoes resolvidas: 113
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1789 Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/)
+  - Question ID: 1789
+  - Arquivo: `problems/hard/1687_delivering-boxes-from-storage-to-ports.py`
+  - Resolvido em: 00:30 - 10/07/26
 
 - [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
   - Question ID: 25
