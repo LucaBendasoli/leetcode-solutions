@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 118
+Total de questoes resolvidas: 119
 
 ### Easy
 
@@ -172,6 +172,11 @@ Total de questoes resolvidas: 118
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#92 Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+  - Question ID: 92
+  - Arquivo: `problems/medium/92_reverse-linked-list-ii.py`
+  - Resolvido em: 19:00 - 11/07/26
 
 - [#47 Permutations II](https://leetcode.com/problems/permutations-ii/)
   - Question ID: 47
