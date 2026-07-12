@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 119
+Total de questoes resolvidas: 120
 
 ### Easy
+
+- [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - Question ID: 104
+  - Arquivo: `problems/easy/104_maximum-depth-of-binary-tree.py`
+  - Resolvido em: 17:00 - 12/07/26
 
 - [#2042 Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
   - Question ID: 2042
