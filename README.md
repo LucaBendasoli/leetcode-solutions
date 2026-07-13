@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 123
+Total de questoes resolvidas: 124
 
 ### Easy
+
+- [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+  - Question ID: 367
+  - Arquivo: `problems/easy/367_valid-perfect-square.py`
+  - Resolvido em: 23:03 - 13/07/26
 
 - [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - Question ID: 104
