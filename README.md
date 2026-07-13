@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 120
+Total de questoes resolvidas: 121
 
 ### Easy
 
@@ -429,6 +429,11 @@ Total de questoes resolvidas: 120
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1701 Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+  - Question ID: 1701
+  - Arquivo: `problems/hard/1579_remove-max-number-of-edges-to-keep-graph-fully-traversable.py`
+  - Resolvido em: 11:03 - 13/07/26
 
 - [#321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
   - Question ID: 321
