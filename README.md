@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 128
+Total de questoes resolvidas: 129
 
 ### Easy
 
@@ -454,6 +454,11 @@ Total de questoes resolvidas: 128
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#989 Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+  - Question ID: 989
+  - Arquivo: `problems/hard/952_largest-component-size-by-common-factor.py`
+  - Resolvido em: 23:00 - 14/07/26
 
 - [#1977 Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
   - Question ID: 1977
