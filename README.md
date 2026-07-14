@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 127
+Total de questoes resolvidas: 128
 
 ### Easy
 
@@ -454,6 +454,11 @@ Total de questoes resolvidas: 127
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1977 Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
+  - Question ID: 1977
+  - Arquivo: `problems/hard/1851_minimum-interval-to-include-each-query.py`
+  - Resolvido em: 22:03 - 14/07/26
 
 - [#410 Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
   - Question ID: 410
