@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 126
+Total de questoes resolvidas: 127
 
 ### Easy
+
+- [#415 Add Strings](https://leetcode.com/problems/add-strings/)
+  - Question ID: 415
+  - Arquivo: `problems/easy/415_add-strings.py`
+  - Resolvido em: 21:30 - 14/07/26
 
 - [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
   - Question ID: 463
