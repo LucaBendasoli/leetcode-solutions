@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 125
+Total de questoes resolvidas: 126
 
 ### Easy
 
@@ -187,6 +187,11 @@ Total de questoes resolvidas: 125
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#78 Subsets](https://leetcode.com/problems/subsets/)
+  - Question ID: 78
+  - Arquivo: `problems/medium/78_subsets.py`
+  - Resolvido em: 11:27 - 14/07/26
 
 - [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
   - Question ID: 477
