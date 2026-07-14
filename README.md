@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 124
+Total de questoes resolvidas: 125
 
 ### Easy
+
+- [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+  - Question ID: 463
+  - Arquivo: `problems/easy/463_island-perimeter.py`
+  - Resolvido em: 11:00 - 14/07/26
 
 - [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
   - Question ID: 367
