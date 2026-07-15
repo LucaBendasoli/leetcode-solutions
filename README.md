@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 130
+Total de questoes resolvidas: 131
 
 ### Easy
+
+- [#263 Ugly Number](https://leetcode.com/problems/ugly-number/)
+  - Question ID: 263
+  - Arquivo: `problems/easy/263_ugly-number.py`
+  - Resolvido em: 10:30 - 15/07/26
 
 - [#415 Add Strings](https://leetcode.com/problems/add-strings/)
   - Question ID: 415
