@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 129
+Total de questoes resolvidas: 130
 
 ### Easy
 
@@ -454,6 +454,11 @@ Total de questoes resolvidas: 129
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1815 Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
+  - Question ID: 1815
+  - Arquivo: `problems/hard/1697_checking-existence-of-edge-length-limited-paths.py`
+  - Resolvido em: 10:00 - 15/07/26
 
 - [#989 Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
   - Question ID: 989
