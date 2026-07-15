@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 131
+Total de questoes resolvidas: 132
 
 ### Easy
 
@@ -459,6 +459,11 @@ Total de questoes resolvidas: 131
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+  - Question ID: 282
+  - Arquivo: `problems/hard/282_expression-add-operators.py`
+  - Resolvido em: 11:00 - 15/07/26
 
 - [#1815 Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
   - Question ID: 1815
