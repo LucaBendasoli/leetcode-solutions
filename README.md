@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 135
+Total de questoes resolvidas: 136
 
 ### Easy
 
@@ -207,6 +207,11 @@ Total de questoes resolvidas: 135
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+  - Question ID: 347
+  - Arquivo: `problems/medium/347_top-k-frequent-elements.py`
+  - Resolvido em: 23:00 - 16/07/26
 
 - [#310 Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
   - Question ID: 310
