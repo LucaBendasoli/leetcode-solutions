@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 134
+Total de questoes resolvidas: 135
 
 ### Easy
+
+- [#119 Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+  - Question ID: 119
+  - Arquivo: `problems/easy/119_pascals-triangle-ii.py`
+  - Resolvido em: 22:00 - 16/07/26
 
 - [#258 Add Digits](https://leetcode.com/problems/add-digits/)
   - Question ID: 258
