@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 133
+Total de questoes resolvidas: 134
 
 ### Easy
+
+- [#258 Add Digits](https://leetcode.com/problems/add-digits/)
+  - Question ID: 258
+  - Arquivo: `problems/easy/258_add-digits.py`
+  - Resolvido em: 11:47 - 16/07/26
 
 - [#263 Ugly Number](https://leetcode.com/problems/ugly-number/)
   - Question ID: 263
