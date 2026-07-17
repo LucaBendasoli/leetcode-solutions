@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 141
+Total de questoes resolvidas: 142
 
 ### Easy
 
@@ -212,6 +212,11 @@ Total de questoes resolvidas: 141
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#122 Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  - Question ID: 122
+  - Arquivo: `problems/medium/122_best-time-to-buy-and-sell-stock-ii.py`
+  - Resolvido em: 20:58 - 17/07/26
 
 - [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
   - Question ID: 473
