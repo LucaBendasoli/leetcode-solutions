@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 139
+Total de questoes resolvidas: 140
 
 ### Easy
 
@@ -484,6 +484,11 @@ Total de questoes resolvidas: 139
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#154 Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+  - Question ID: 154
+  - Arquivo: `problems/hard/154_find-minimum-in-rotated-sorted-array-ii.py`
+  - Resolvido em: 11:00 - 17/07/26
 
 - [#1093 Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
   - Question ID: 1093
