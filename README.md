@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 140
+Total de questoes resolvidas: 141
 
 ### Easy
+
+- [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
+  - Question ID: 231
+  - Arquivo: `problems/easy/231_power-of-two.py`
+  - Resolvido em: 20:34 - 17/07/26
 
 - [#119 Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
   - Question ID: 119
