@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 136
+Total de questoes resolvidas: 137
 
 ### Easy
 
@@ -479,6 +479,11 @@ Total de questoes resolvidas: 136
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2189 Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
+  - Question ID: 2189
+  - Arquivo: `problems/hard/2065_maximum-path-quality-of-a-graph.py`
+  - Resolvido em: 00:34 - 17/07/26
 
 - [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
   - Question ID: 282
