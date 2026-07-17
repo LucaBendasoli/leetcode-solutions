@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 137
+Total de questoes resolvidas: 138
 
 ### Easy
 
@@ -479,6 +479,11 @@ Total de questoes resolvidas: 137
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1093 Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+  - Question ID: 1093
+  - Arquivo: `problems/hard/1028_recover-a-tree-from-preorder-traversal.py`
+  - Resolvido em: 01:00 - 17/07/26
 
 - [#2189 Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
   - Question ID: 2189
