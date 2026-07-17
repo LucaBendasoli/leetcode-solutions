@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 138
+Total de questoes resolvidas: 139
 
 ### Easy
 
@@ -207,6 +207,11 @@ Total de questoes resolvidas: 138
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+  - Question ID: 473
+  - Arquivo: `problems/medium/473_matchsticks-to-square.py`
+  - Resolvido em: 10:08 - 17/07/26
 
 - [#347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
   - Question ID: 347
