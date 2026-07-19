@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 143
+Total de questoes resolvidas: 144
 
 ### Easy
+
+- [#405 Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
+  - Question ID: 405
+  - Arquivo: `problems/easy/405_convert-a-number-to-hexadecimal.py`
+  - Resolvido em: 17:00 - 19/07/26
 
 - [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
   - Question ID: 231
