@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 144
+Total de questoes resolvidas: 145
 
 ### Easy
 
@@ -504,6 +504,11 @@ Total de questoes resolvidas: 144
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1393 Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
+  - Question ID: 1393
+  - Arquivo: `problems/hard/2218_maximum-value-of-k-coins-from-piles.py`
+  - Resolvido em: 11:08 - 20/07/26
 
 - [#154 Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
   - Question ID: 154
