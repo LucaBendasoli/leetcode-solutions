@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 146
+Total de questoes resolvidas: 147
 
 ### Easy
+
+- [#292 Nim Game](https://leetcode.com/problems/nim-game/)
+  - Question ID: 292
+  - Arquivo: `problems/easy/292_nim-game.py`
+  - Resolvido em: 22:30 - 20/07/26
 
 - [#405 Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
   - Question ID: 405
