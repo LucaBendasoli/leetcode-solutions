@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 145
+Total de questoes resolvidas: 146
 
 ### Easy
 
@@ -504,6 +504,11 @@ Total de questoes resolvidas: 145
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#140 Word Break II](https://leetcode.com/problems/word-break-ii/)
+  - Question ID: 140
+  - Arquivo: `problems/hard/140_word-break-ii.py`
+  - Resolvido em: 22:03 - 20/07/26
 
 - [#1393 Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
   - Question ID: 1393
