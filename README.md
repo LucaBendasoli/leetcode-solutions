@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 147
+Total de questoes resolvidas: 148
 
 ### Easy
+
+- [#13 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+  - Question ID: 13
+  - Arquivo: `problems/easy/13_roman-to-integer.py`
+  - Resolvido em: 23:00 - 20/07/26
 
 - [#292 Nim Game](https://leetcode.com/problems/nim-game/)
   - Question ID: 292
