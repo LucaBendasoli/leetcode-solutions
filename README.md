@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 150
+Total de questoes resolvidas: 151
 
 ### Easy
 
@@ -524,6 +524,11 @@ Total de questoes resolvidas: 150
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#32 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+  - Question ID: 32
+  - Arquivo: `problems/hard/32_longest-valid-parentheses.py`
+  - Resolvido em: 21:30 - 21/07/26
 
 - [#140 Word Break II](https://leetcode.com/problems/word-break-ii/)
   - Question ID: 140
