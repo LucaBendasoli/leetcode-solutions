@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 149
+Total de questoes resolvidas: 150
 
 ### Easy
 
@@ -227,6 +227,11 @@ Total de questoes resolvidas: 149
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#7 Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+  - Question ID: 7
+  - Arquivo: `problems/medium/7_reverse-integer.py`
+  - Resolvido em: 11:27 - 21/07/26
 
 - [#324 Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
   - Question ID: 324
