@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 152
+Total de questoes resolvidas: 153
 
 ### Easy
 
@@ -524,6 +524,11 @@ Total de questoes resolvidas: 152
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1372 Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+  - Question ID: 1372
+  - Arquivo: `problems/hard/1250_check-if-it-is-a-good-array.py`
+  - Resolvido em: 23:08 - 21/07/26
 
 - [#942 Super Palindromes](https://leetcode.com/problems/super-palindromes/)
   - Question ID: 942
