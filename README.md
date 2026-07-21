@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 151
+Total de questoes resolvidas: 152
 
 ### Easy
 
@@ -524,6 +524,11 @@ Total de questoes resolvidas: 151
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#942 Super Palindromes](https://leetcode.com/problems/super-palindromes/)
+  - Question ID: 942
+  - Arquivo: `problems/hard/906_super-palindromes.py`
+  - Resolvido em: 22:00 - 21/07/26
 
 - [#32 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
   - Question ID: 32
