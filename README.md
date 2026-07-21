@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 148
+Total de questoes resolvidas: 149
 
 ### Easy
 
@@ -227,6 +227,11 @@ Total de questoes resolvidas: 148
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#324 Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+  - Question ID: 324
+  - Arquivo: `problems/medium/324_wiggle-sort-ii.py`
+  - Resolvido em: 11:08 - 21/07/26
 
 - [#96 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
   - Question ID: 96
