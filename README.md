@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 153
+Total de questoes resolvidas: 154
 
 ### Easy
 
@@ -524,6 +524,11 @@ Total de questoes resolvidas: 153
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1758 Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
+  - Question ID: 1758
+  - Arquivo: `problems/hard/1655_distribute-repeating-integers.py`
+  - Resolvido em: 10:00 - 22/07/26
 
 - [#1372 Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
   - Question ID: 1372
