@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 156
+Total de questoes resolvidas: 157
 
 ### Easy
 
@@ -227,6 +227,11 @@ Total de questoes resolvidas: 156
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  - Question ID: 116
+  - Arquivo: `problems/medium/116_populating-next-right-pointers-in-each-node.py`
+  - Resolvido em: 22:03 - 22/07/26
 
 - [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
   - Question ID: 397
