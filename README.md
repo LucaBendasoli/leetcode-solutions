@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 157
+Total de questoes resolvidas: 158
 
 ### Easy
 
@@ -227,6 +227,11 @@ Total de questoes resolvidas: 157
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#139 Word Break](https://leetcode.com/problems/word-break/)
+  - Question ID: 139
+  - Arquivo: `problems/medium/139_word-break.py`
+  - Resolvido em: 23:03 - 22/07/26
 
 - [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   - Question ID: 116
