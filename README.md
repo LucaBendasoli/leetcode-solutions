@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 154
+Total de questoes resolvidas: 155
 
 ### Easy
 
@@ -227,6 +227,11 @@ Total de questoes resolvidas: 154
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
+  - Question ID: 397
+  - Arquivo: `problems/medium/397_integer-replacement.py`
+  - Resolvido em: 10:38 - 22/07/26
 
 - [#7 Reverse Integer](https://leetcode.com/problems/reverse-integer/)
   - Question ID: 7
