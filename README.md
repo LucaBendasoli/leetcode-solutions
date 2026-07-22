@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 155
+Total de questoes resolvidas: 156
 
 ### Easy
 
@@ -529,6 +529,11 @@ Total de questoes resolvidas: 155
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+  - Question ID: 220
+  - Arquivo: `problems/hard/220_contains-duplicate-iii.py`
+  - Resolvido em: 11:00 - 22/07/26
 
 - [#1758 Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
   - Question ID: 1758
