@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 159
+Total de questoes resolvidas: 160
 
 ### Easy
 
@@ -544,6 +544,11 @@ Total de questoes resolvidas: 159
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  - Question ID: 23
+  - Arquivo: `problems/hard/23_merge-k-sorted-lists.py`
+  - Resolvido em: 22:04 - 23/07/26
 
 - [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
   - Question ID: 220
