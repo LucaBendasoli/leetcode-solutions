@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 158
+Total de questoes resolvidas: 159
 
 ### Easy
+
+- [#1904 Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)
+  - Question ID: 1904
+  - Arquivo: `problems/easy/1796_second-largest-digit-in-a-string.py`
+  - Resolvido em: 11:47 - 23/07/26
 
 - [#13 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
   - Question ID: 13
