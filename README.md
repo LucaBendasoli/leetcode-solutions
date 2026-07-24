@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 166
+Total de questoes resolvidas: 167
 
 ### Easy
 
@@ -242,6 +242,11 @@ Total de questoes resolvidas: 166
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#284 Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
+  - Question ID: 284
+  - Arquivo: `problems/medium/284_peeking-iterator.py`
+  - Resolvido em: 20:55 - 24/07/26
 
 - [#139 Word Break](https://leetcode.com/problems/word-break/)
   - Question ID: 139
