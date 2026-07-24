@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 162
+Total de questoes resolvidas: 163
 
 ### Easy
 
@@ -549,6 +549,11 @@ Total de questoes resolvidas: 162
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2368 Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)
+  - Question ID: 2368
+  - Arquivo: `problems/hard/2281_sum-of-total-strength-of-wizards.py`
+  - Resolvido em: 01:00 - 24/07/26
 
 - [#2176 Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
   - Question ID: 2176
