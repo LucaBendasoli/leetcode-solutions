@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 165
+Total de questoes resolvidas: 166
 
 ### Easy
+
+- [#1406 Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+  - Question ID: 1406
+  - Arquivo: `problems/easy/1281_subtract-the-product-and-sum-of-digits-of-an-integer.py`
+  - Resolvido em: 20:34 - 24/07/26
 
 - [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
