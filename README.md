@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 161
+Total de questoes resolvidas: 162
 
 ### Easy
 
@@ -549,6 +549,11 @@ Total de questoes resolvidas: 161
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2176 Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
+  - Question ID: 2176
+  - Arquivo: `problems/hard/2050_parallel-courses-iii.py`
+  - Resolvido em: 00:30 - 24/07/26
 
 - [#23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   - Question ID: 23
