@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 164
+Total de questoes resolvidas: 165
 
 ### Easy
 
@@ -549,6 +549,11 @@ Total de questoes resolvidas: 164
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2119 Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
+  - Question ID: 2119
+  - Arquivo: `problems/hard/2009_minimum-number-of-operations-to-make-array-continuous.py`
+  - Resolvido em: 11:03 - 24/07/26
 
 - [#479 Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)
   - Question ID: 479
