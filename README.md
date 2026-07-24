@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 163
+Total de questoes resolvidas: 164
 
 ### Easy
 
@@ -549,6 +549,11 @@ Total de questoes resolvidas: 163
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#479 Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)
+  - Question ID: 479
+  - Arquivo: `problems/hard/479_largest-palindrome-product.py`
+  - Resolvido em: 10:00 - 24/07/26
 
 - [#2368 Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)
   - Question ID: 2368
