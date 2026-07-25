@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 167
+Total de questoes resolvidas: 168
 
 ### Easy
+
+- [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - Question ID: 88
+  - Arquivo: `problems/easy/88_merge-sorted-array.py`
+  - Resolvido em: 19:00 - 25/07/26
 
 - [#1406 Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
   - Question ID: 1406
