@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 168
+Total de questoes resolvidas: 169
 
 ### Easy
 
@@ -564,6 +564,11 @@ Total de questoes resolvidas: 168
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+  - Question ID: 458
+  - Arquivo: `problems/hard/458_poor-pigs.py`
+  - Resolvido em: 17:08 - 26/07/26
 
 - [#2119 Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)
   - Question ID: 2119
