@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 172
+Total de questoes resolvidas: 173
 
 ### Easy
+
+- [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+  - Question ID: 118
+  - Arquivo: `problems/easy/118_pascals-triangle.py`
+  - Resolvido em: 23:07 - 27/07/26
 
 - [#112 Path Sum](https://leetcode.com/problems/path-sum/)
   - Question ID: 112
