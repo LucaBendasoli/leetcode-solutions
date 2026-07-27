@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 170
+Total de questoes resolvidas: 171
 
 ### Easy
 
@@ -564,6 +564,11 @@ Total de questoes resolvidas: 170
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2147 The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
+  - Question ID: 2147
+  - Arquivo: `problems/hard/2019_the-score-of-students-solving-math-expression.py`
+  - Resolvido em: 22:00 - 27/07/26
 
 - [#781 Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/)
   - Question ID: 781
