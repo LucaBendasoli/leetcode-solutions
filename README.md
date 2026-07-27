@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 169
+Total de questoes resolvidas: 170
 
 ### Easy
 
@@ -564,6 +564,11 @@ Total de questoes resolvidas: 169
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#781 Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/)
+  - Question ID: 781
+  - Arquivo: `problems/hard/770_basic-calculator-iv.py`
+  - Resolvido em: 11:09 - 27/07/26
 
 - [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
   - Question ID: 458
