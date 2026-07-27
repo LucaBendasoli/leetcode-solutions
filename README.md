@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 171
+Total de questoes resolvidas: 172
 
 ### Easy
+
+- [#112 Path Sum](https://leetcode.com/problems/path-sum/)
+  - Question ID: 112
+  - Arquivo: `problems/easy/112_path-sum.py`
+  - Resolvido em: 22:30 - 27/07/26
 
 - [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - Question ID: 88
