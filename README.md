@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 174
+Total de questoes resolvidas: 175
 
 ### Easy
+
+- [#83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+  - Question ID: 83
+  - Arquivo: `problems/easy/83_remove-duplicates-from-sorted-list.py`
+  - Resolvido em: 11:27 - 28/07/26
 
 - [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
   - Question ID: 118
