@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 173
+Total de questoes resolvidas: 174
 
 ### Easy
 
@@ -574,6 +574,11 @@ Total de questoes resolvidas: 173
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+  - Question ID: 273
+  - Arquivo: `problems/hard/273_integer-to-english-words.py`
+  - Resolvido em: 11:00 - 28/07/26
 
 - [#2147 The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
   - Question ID: 2147
