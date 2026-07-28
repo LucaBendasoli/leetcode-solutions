@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 175
+Total de questoes resolvidas: 176
 
 ### Easy
 
@@ -262,6 +262,11 @@ Total de questoes resolvidas: 175
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+  - Question ID: 241
+  - Arquivo: `problems/medium/241_different-ways-to-add-parentheses.py`
+  - Resolvido em: 21:33 - 28/07/26
 
 - [#284 Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
   - Question ID: 284
