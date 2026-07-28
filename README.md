@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 176
+Total de questoes resolvidas: 177
 
 ### Easy
 
@@ -584,6 +584,11 @@ Total de questoes resolvidas: 176
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2272 Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
+  - Question ID: 2272
+  - Arquivo: `problems/hard/2151_maximum-good-people-based-on-statements.py`
+  - Resolvido em: 22:03 - 28/07/26
 
 - [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
   - Question ID: 273
