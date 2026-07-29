@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 180
+Total de questoes resolvidas: 181
 
 ### Easy
 
@@ -262,6 +262,11 @@ Total de questoes resolvidas: 180
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#210 Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+  - Question ID: 210
+  - Arquivo: `problems/medium/210_course-schedule-ii.py`
+  - Resolvido em: 22:00 - 29/07/26
 
 - [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
   - Question ID: 165
