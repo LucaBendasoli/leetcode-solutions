@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 179
+Total de questoes resolvidas: 180
 
 ### Easy
 
@@ -262,6 +262,11 @@ Total de questoes resolvidas: 179
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+  - Question ID: 165
+  - Arquivo: `problems/medium/165_compare-version-numbers.py`
+  - Resolvido em: 11:00 - 29/07/26
 
 - [#148 Sort List](https://leetcode.com/problems/sort-list/)
   - Question ID: 148
