@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 177
+Total de questoes resolvidas: 178
 
 ### Easy
 
@@ -584,6 +584,11 @@ Total de questoes resolvidas: 177
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1309 Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
+  - Question ID: 1309
+  - Arquivo: `problems/hard/1203_sort-items-by-groups-respecting-dependencies.py`
+  - Resolvido em: 10:04 - 29/07/26
 
 - [#2272 Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
   - Question ID: 2272
