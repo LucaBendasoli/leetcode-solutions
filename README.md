@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 178
+Total de questoes resolvidas: 179
 
 ### Easy
 
@@ -262,6 +262,11 @@ Total de questoes resolvidas: 178
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#148 Sort List](https://leetcode.com/problems/sort-list/)
+  - Question ID: 148
+  - Arquivo: `problems/medium/148_sort-list.py`
+  - Resolvido em: 10:37 - 29/07/26
 
 - [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
   - Question ID: 241
