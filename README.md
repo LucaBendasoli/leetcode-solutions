@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 181
+Total de questoes resolvidas: 182
 
 ### Easy
+
+- [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - Question ID: 14
+  - Arquivo: `problems/easy/14_longest-common-prefix.py`
+  - Resolvido em: 23:03 - 29/07/26
 
 - [#83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   - Question ID: 83
