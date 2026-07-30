@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 182
+Total de questoes resolvidas: 183
 
 ### Easy
+
+- [#530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+  - Question ID: 530
+  - Arquivo: `problems/easy/530_minimum-absolute-difference-in-bst.py`
+  - Resolvido em: 11:54 - 30/07/26
 
 - [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   - Question ID: 14
