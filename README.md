@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 183
+Total de questoes resolvidas: 184
 
 ### Easy
+
+- [#136 Single Number](https://leetcode.com/problems/single-number/)
+  - Question ID: 136
+  - Arquivo: `problems/easy/136_single-number.py`
+  - Resolvido em: 22:03 - 30/07/26
 
 - [#530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
   - Question ID: 530
