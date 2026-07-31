@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 184
+Total de questoes resolvidas: 185
 
 ### Easy
 
@@ -614,6 +614,11 @@ Total de questoes resolvidas: 184
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1633 Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
+  - Question ID: 1633
+  - Arquivo: `problems/hard/1526_minimum-number-of-increments-on-subarrays-to-form-a-target-array.py`
+  - Resolvido em: 00:30 - 31/07/26
 
 - [#1309 Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
   - Question ID: 1309
