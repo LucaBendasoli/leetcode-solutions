@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 186
+Total de questoes resolvidas: 187
 
 ### Easy
 
@@ -277,6 +277,11 @@ Total de questoes resolvidas: 186
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#903 Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
+  - Question ID: 903
+  - Arquivo: `problems/medium/470_implement-rand10-using-rand7.py`
+  - Resolvido em: 10:00 - 31/07/26
 
 - [#210 Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
   - Question ID: 210
