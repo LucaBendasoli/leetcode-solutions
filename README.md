@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 185
+Total de questoes resolvidas: 186
 
 ### Easy
 
@@ -614,6 +614,11 @@ Total de questoes resolvidas: 185
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1577 Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/)
+  - Question ID: 1577
+  - Arquivo: `problems/hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py`
+  - Resolvido em: 01:08 - 31/07/26
 
 - [#1633 Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)
   - Question ID: 1633
