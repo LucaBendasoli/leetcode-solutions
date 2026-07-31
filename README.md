@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 188
+Total de questoes resolvidas: 189
 
 ### Easy
+
+- [#799 Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+  - Question ID: 799
+  - Arquivo: `problems/easy/783_minimum-distance-between-bst-nodes.py`
+  - Resolvido em: 20:34 - 31/07/26
 
 - [#136 Single Number](https://leetcode.com/problems/single-number/)
   - Question ID: 136
