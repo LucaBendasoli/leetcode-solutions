@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 189
+Total de questoes resolvidas: 190
 
 ### Easy
 
@@ -282,6 +282,11 @@ Total de questoes resolvidas: 189
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+  - Question ID: 237
+  - Arquivo: `problems/medium/237_delete-node-in-a-linked-list.py`
+  - Resolvido em: 20:55 - 31/07/26
 
 - [#903 Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
   - Question ID: 903
