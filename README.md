@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 187
+Total de questoes resolvidas: 188
 
 ### Easy
 
@@ -619,6 +619,11 @@ Total de questoes resolvidas: 187
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/)
+  - Question ID: 514
+  - Arquivo: `problems/hard/514_freedom-trail.py`
+  - Resolvido em: 11:00 - 31/07/26
 
 - [#1577 Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/)
   - Question ID: 1577
