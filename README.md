@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 190
+Total de questoes resolvidas: 191
 
 ### Easy
 
@@ -282,6 +282,11 @@ Total de questoes resolvidas: 190
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+  - Question ID: 384
+  - Arquivo: `problems/medium/384_shuffle-an-array.py`
+  - Resolvido em: 19:00 - 01/08/26
 
 - [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   - Question ID: 237
