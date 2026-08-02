@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 191
+Total de questoes resolvidas: 192
 
 ### Easy
 
@@ -282,6 +282,11 @@ Total de questoes resolvidas: 191
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+  - Question ID: 129
+  - Arquivo: `problems/medium/129_sum-root-to-leaf-numbers.py`
+  - Resolvido em: 17:03 - 02/08/26
 
 - [#384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
   - Question ID: 384
