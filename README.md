@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 192
+Total de questoes resolvidas: 193
 
 ### Easy
 
@@ -639,6 +639,11 @@ Total de questoes resolvidas: 192
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#935 Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+  - Question ID: 935
+  - Arquivo: `problems/hard/899_orderly-queue.py`
+  - Resolvido em: 11:08 - 03/08/26
 
 - [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/)
   - Question ID: 514
