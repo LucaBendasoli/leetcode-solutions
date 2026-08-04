@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 196
+Total de questoes resolvidas: 197
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 196
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#72 Edit Distance](https://leetcode.com/problems/edit-distance/)
+  - Question ID: 72
+  - Arquivo: `problems/medium/72_edit-distance.py`
+  - Resolvido em: 11:30 - 04/08/26
 
 - [#61 Rotate List](https://leetcode.com/problems/rotate-list/)
   - Question ID: 61
