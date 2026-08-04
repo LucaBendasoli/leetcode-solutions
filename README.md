@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 197
+Total de questoes resolvidas: 198
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 197
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
+  - Question ID: 914
+  - Arquivo: `problems/medium/497_random-point-in-non-overlapping-rectangles.py`
+  - Resolvido em: 21:30 - 04/08/26
 
 - [#72 Edit Distance](https://leetcode.com/problems/edit-distance/)
   - Question ID: 72
