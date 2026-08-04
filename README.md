@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 199
+Total de questoes resolvidas: 200
 
 ### Easy
 
@@ -659,6 +659,11 @@ Total de questoes resolvidas: 199
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#639 Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
+  - Question ID: 639
+  - Arquivo: `problems/hard/639_decode-ways-ii.py`
+  - Resolvido em: 23:03 - 04/08/26
 
 - [#2051 Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
   - Question ID: 2051
