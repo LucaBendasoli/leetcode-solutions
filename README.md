@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 195
+Total de questoes resolvidas: 196
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 195
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#61 Rotate List](https://leetcode.com/problems/rotate-list/)
+  - Question ID: 61
+  - Arquivo: `problems/medium/61_rotate-list.py`
+  - Resolvido em: 11:00 - 04/08/26
 
 - [#129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
   - Question ID: 129
