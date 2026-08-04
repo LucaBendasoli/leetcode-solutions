@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 198
+Total de questoes resolvidas: 199
 
 ### Easy
 
@@ -659,6 +659,11 @@ Total de questoes resolvidas: 198
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2051 Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
+  - Question ID: 2051
+  - Arquivo: `problems/hard/1923_longest-common-subpath.py`
+  - Resolvido em: 22:03 - 04/08/26
 
 - [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
   - Question ID: 336
