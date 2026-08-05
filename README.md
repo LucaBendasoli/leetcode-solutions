@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 200
+Total de questoes resolvidas: 201
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 200
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)
+  - Question ID: 133
+  - Arquivo: `problems/medium/133_clone-graph.py`
+  - Resolvido em: 10:33 - 05/08/26
 
 - [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
   - Question ID: 914
