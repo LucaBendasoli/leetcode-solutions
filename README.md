@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 202
+Total de questoes resolvidas: 203
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 202
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - Question ID: 34
+  - Arquivo: `problems/medium/34_find-first-and-last-position-of-element-in-sorted-array.py`
+  - Resolvido em: 22:00 - 05/08/26
 
 - [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
   - Question ID: 166
