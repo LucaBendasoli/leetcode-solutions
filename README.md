@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 203
+Total de questoes resolvidas: 204
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 203
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#462 Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
+  - Question ID: 462
+  - Arquivo: `problems/medium/462_minimum-moves-to-equal-array-elements-ii.py`
+  - Resolvido em: 23:00 - 05/08/26
 
 - [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - Question ID: 34
