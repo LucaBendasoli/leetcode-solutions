@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 201
+Total de questoes resolvidas: 202
 
 ### Easy
 
@@ -287,6 +287,11 @@ Total de questoes resolvidas: 201
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+  - Question ID: 166
+  - Arquivo: `problems/medium/166_fraction-to-recurring-decimal.py`
+  - Resolvido em: 11:00 - 05/08/26
 
 - [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)
   - Question ID: 133
