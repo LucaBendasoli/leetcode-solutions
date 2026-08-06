@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 205
+Total de questoes resolvidas: 206
 
 ### Easy
 
@@ -292,6 +292,11 @@ Total de questoes resolvidas: 205
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+  - Question ID: 319
+  - Arquivo: `problems/medium/319_bulb-switcher.py`
+  - Resolvido em: 22:03 - 06/08/26
 
 - [#462 Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
   - Question ID: 462
