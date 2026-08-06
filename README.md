@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 204
+Total de questoes resolvidas: 205
 
 ### Easy
+
+- [#904 Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+  - Question ID: 904
+  - Arquivo: `problems/easy/872_leaf-similar-trees.py`
+  - Resolvido em: 11:47 - 06/08/26
 
 - [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
   - Question ID: 434
