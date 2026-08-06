@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 206
+Total de questoes resolvidas: 207
 
 ### Easy
 
@@ -292,6 +292,11 @@ Total de questoes resolvidas: 206
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#322 Coin Change](https://leetcode.com/problems/coin-change/)
+  - Question ID: 322
+  - Arquivo: `problems/medium/322_coin-change.py`
+  - Resolvido em: 23:00 - 06/08/26
 
 - [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
   - Question ID: 319
