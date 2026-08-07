@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 208
+Total de questoes resolvidas: 209
 
 ### Easy
 
@@ -694,6 +694,11 @@ Total de questoes resolvidas: 208
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#726 Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
+  - Question ID: 726
+  - Arquivo: `problems/hard/726_number-of-atoms.py`
+  - Resolvido em: 01:03 - 07/08/26
 
 - [#828 Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
   - Question ID: 828
