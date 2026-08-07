@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 210
+Total de questoes resolvidas: 211
 
 ### Easy
 
@@ -699,6 +699,11 @@ Total de questoes resolvidas: 210
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#993 Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+  - Question ID: 993
+  - Arquivo: `problems/hard/956_tallest-billboard.py`
+  - Resolvido em: 11:03 - 07/08/26
 
 - [#726 Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
   - Question ID: 726
