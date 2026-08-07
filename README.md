@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 209
+Total de questoes resolvidas: 210
 
 ### Easy
+
+- [#66 Plus One](https://leetcode.com/problems/plus-one/)
+  - Question ID: 66
+  - Arquivo: `problems/easy/66_plus-one.py`
+  - Resolvido em: 10:00 - 07/08/26
 
 - [#904 Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
   - Question ID: 904
