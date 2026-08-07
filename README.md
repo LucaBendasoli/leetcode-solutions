@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 212
+Total de questoes resolvidas: 213
 
 ### Easy
 
@@ -302,6 +302,11 @@ Total de questoes resolvidas: 212
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - Question ID: 150
+  - Arquivo: `problems/medium/150_evaluate-reverse-polish-notation.py`
+  - Resolvido em: 20:55 - 07/08/26
 
 - [#322 Coin Change](https://leetcode.com/problems/coin-change/)
   - Question ID: 322
