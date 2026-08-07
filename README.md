@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 211
+Total de questoes resolvidas: 212
 
 ### Easy
+
+- [#958 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+  - Question ID: 958
+  - Arquivo: `problems/easy/922_sort-array-by-parity-ii.py`
+  - Resolvido em: 20:37 - 07/08/26
 
 - [#66 Plus One](https://leetcode.com/problems/plus-one/)
   - Question ID: 66
