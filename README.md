@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 207
+Total de questoes resolvidas: 208
 
 ### Easy
 
@@ -694,6 +694,11 @@ Total de questoes resolvidas: 207
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#828 Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
+  - Question ID: 828
+  - Arquivo: `problems/hard/810_chalkboard-xor-game.py`
+  - Resolvido em: 00:33 - 07/08/26
 
 - [#639 Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
   - Question ID: 639
