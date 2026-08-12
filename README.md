@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 213
+Total de questoes resolvidas: 214
 
 ### Easy
+
+- [#1 Two Sum](https://leetcode.com/problems/two-sum/)
+  - Question ID: 1
+  - Arquivo: `problems/easy/1_two-sum.py`
+  - Resolvido em: 11:00 - 12/08/26
 
 - [#958 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
   - Question ID: 958
