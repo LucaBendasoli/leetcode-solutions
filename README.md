@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 215
+Total de questoes resolvidas: 216
 
 ### Easy
 
@@ -719,6 +719,11 @@ Total de questoes resolvidas: 215
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#488 Zuma Game](https://leetcode.com/problems/zuma-game/)
+  - Question ID: 488
+  - Arquivo: `problems/hard/488_zuma-game.py`
+  - Resolvido em: 21:31 - 08/09/26
 
 - [#993 Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
   - Question ID: 993
