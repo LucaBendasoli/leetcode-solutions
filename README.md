@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 216
+Total de questoes resolvidas: 217
 
 ### Easy
 
@@ -719,6 +719,11 @@ Total de questoes resolvidas: 216
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1723 Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+  - Question ID: 1723
+  - Arquivo: `problems/hard/1601_maximum-number-of-achievable-transfer-requests.py`
+  - Resolvido em: 22:01 - 08/09/26
 
 - [#488 Zuma Game](https://leetcode.com/problems/zuma-game/)
   - Question ID: 488
