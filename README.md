@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 214
+Total de questoes resolvidas: 215
 
 ### Easy
 
@@ -307,6 +307,11 @@ Total de questoes resolvidas: 214
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - Question ID: 53
+  - Arquivo: `problems/medium/53_maximum-subarray.py`
+  - Resolvido em: 17:31 - 08/09/26
 
 - [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
   - Question ID: 150
