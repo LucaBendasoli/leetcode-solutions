@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 217
+Total de questoes resolvidas: 218
 
 ### Easy
 
@@ -719,6 +719,11 @@ Total de questoes resolvidas: 217
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+  - Question ID: 295
+  - Arquivo: `problems/hard/295_find-median-from-data-stream.py`
+  - Resolvido em: 23:01 - 08/09/26
 
 - [#1723 Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
   - Question ID: 1723
