@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 219
+Total de questoes resolvidas: 220
 
 ### Easy
 
@@ -307,6 +307,11 @@ Total de questoes resolvidas: 219
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+  - Question ID: 147
+  - Arquivo: `problems/medium/147_insertion-sort-list.py`
+  - Resolvido em: 11:01 - 09/09/26
 
 - [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   - Question ID: 53
