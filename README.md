@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 221
+Total de questoes resolvidas: 222
 
 ### Easy
 
@@ -307,6 +307,11 @@ Total de questoes resolvidas: 221
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#306 Additive Number](https://leetcode.com/problems/additive-number/)
+  - Question ID: 306
+  - Arquivo: `problems/medium/306_additive-number.py`
+  - Resolvido em: 23:01 - 09/09/26
 
 - [#46 Permutations](https://leetcode.com/problems/permutations/)
   - Question ID: 46
