@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 218
+Total de questoes resolvidas: 219
 
 ### Easy
 
@@ -719,6 +719,11 @@ Total de questoes resolvidas: 218
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#877 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+  - Question ID: 877
+  - Arquivo: `problems/hard/847_shortest-path-visiting-all-nodes.py`
+  - Resolvido em: 10:01 - 09/09/26
 
 - [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
   - Question ID: 295
