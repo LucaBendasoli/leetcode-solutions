@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 220
+Total de questoes resolvidas: 221
 
 ### Easy
 
@@ -307,6 +307,11 @@ Total de questoes resolvidas: 220
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#46 Permutations](https://leetcode.com/problems/permutations/)
+  - Question ID: 46
+  - Arquivo: `problems/medium/46_permutations.py`
+  - Resolvido em: 22:01 - 09/09/26
 
 - [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
   - Question ID: 147
