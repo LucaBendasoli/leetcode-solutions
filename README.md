@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 223
+Total de questoes resolvidas: 224
 
 ### Easy
 
@@ -739,6 +739,11 @@ Total de questoes resolvidas: 223
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - Question ID: 4
+  - Arquivo: `problems/hard/4_median-of-two-sorted-arrays.py`
+  - Resolvido em: 22:00 - 10/09/26
 
 - [#877 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
   - Question ID: 877
