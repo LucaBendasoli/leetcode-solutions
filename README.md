@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 222
+Total de questoes resolvidas: 223
 
 ### Easy
+
+- [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - Question ID: 206
+  - Arquivo: `problems/easy/206_reverse-linked-list.py`
+  - Resolvido em: 11:48 - 10/09/26
 
 - [#1 Two Sum](https://leetcode.com/problems/two-sum/)
   - Question ID: 1
