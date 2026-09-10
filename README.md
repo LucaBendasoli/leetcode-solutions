@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 224
+Total de questoes resolvidas: 225
 
 ### Easy
 
@@ -739,6 +739,11 @@ Total de questoes resolvidas: 224
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#51 N-Queens](https://leetcode.com/problems/n-queens/)
+  - Question ID: 51
+  - Arquivo: `problems/hard/51_n-queens.py`
+  - Resolvido em: 23:06 - 10/09/26
 
 - [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - Question ID: 4
