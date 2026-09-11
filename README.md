@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 229
+Total de questoes resolvidas: 230
 
 ### Easy
 
@@ -312,6 +312,11 @@ Total de questoes resolvidas: 229
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+  - Question ID: 74
+  - Arquivo: `problems/medium/74_search-a-2d-matrix.py`
+  - Resolvido em: 20:55 - 11/09/26
 
 - [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   - Question ID: 334
