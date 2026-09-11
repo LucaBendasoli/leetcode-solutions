@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 226
+Total de questoes resolvidas: 227
 
 ### Easy
 
@@ -739,6 +739,11 @@ Total de questoes resolvidas: 226
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2330 Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
+  - Question ID: 2330
+  - Arquivo: `problems/hard/2234_maximum-total-beauty-of-the-gardens.py`
+  - Resolvido em: 01:12 - 11/09/26
 
 - [#1668 Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
   - Question ID: 1668
