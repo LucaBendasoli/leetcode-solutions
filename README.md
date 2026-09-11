@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 228
+Total de questoes resolvidas: 229
 
 ### Easy
 
@@ -744,6 +744,11 @@ Total de questoes resolvidas: 228
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+  - Question ID: 297
+  - Arquivo: `problems/hard/297_serialize-and-deserialize-binary-tree.py`
+  - Resolvido em: 11:10 - 11/09/26
 
 - [#2330 Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
   - Question ID: 2330
