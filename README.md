@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 225
+Total de questoes resolvidas: 226
 
 ### Easy
 
@@ -739,6 +739,11 @@ Total de questoes resolvidas: 225
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1668 Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
+  - Question ID: 1668
+  - Arquivo: `problems/hard/1542_find-longest-awesome-substring.py`
+  - Resolvido em: 00:34 - 11/09/26
 
 - [#51 N-Queens](https://leetcode.com/problems/n-queens/)
   - Question ID: 51
