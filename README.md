@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 230
+Total de questoes resolvidas: 231
 
 ### Easy
+
+- [#145 Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+  - Question ID: 145
+  - Arquivo: `problems/easy/145_binary-tree-postorder-traversal.py`
+  - Resolvido em: 19:00 - 12/09/26
 
 - [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   - Question ID: 206
