@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 231
+Total de questoes resolvidas: 232
 
 ### Easy
+
+- [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
+  - Question ID: 342
+  - Arquivo: `problems/easy/342_power-of-four.py`
+  - Resolvido em: 17:00 - 13/09/26
 
 - [#145 Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   - Question ID: 145
