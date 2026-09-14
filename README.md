@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 232
+Total de questoes resolvidas: 233
 
 ### Easy
 
@@ -759,6 +759,11 @@ Total de questoes resolvidas: 232
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1097 Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+  - Question ID: 1097
+  - Arquivo: `problems/hard/1032_stream-of-characters.py`
+  - Resolvido em: 11:07 - 14/09/26
 
 - [#297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
   - Question ID: 297
