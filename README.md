@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 233
+Total de questoes resolvidas: 234
 
 ### Easy
 
@@ -759,6 +759,11 @@ Total de questoes resolvidas: 233
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1550 Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)
+  - Question ID: 1550
+  - Arquivo: `problems/hard/1439_find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.py`
+  - Resolvido em: 22:04 - 14/09/26
 
 - [#1097 Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
   - Question ID: 1097
