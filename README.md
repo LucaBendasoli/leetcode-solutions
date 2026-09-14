@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 235
+Total de questoes resolvidas: 236
 
 ### Easy
+
+- [#108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+  - Question ID: 108
+  - Arquivo: `problems/easy/108_convert-sorted-array-to-binary-search-tree.py`
+  - Resolvido em: 23:01 - 14/09/26
 
 - [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
   - Question ID: 342
