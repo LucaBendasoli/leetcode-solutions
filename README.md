@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 234
+Total de questoes resolvidas: 235
 
 ### Easy
 
@@ -322,6 +322,11 @@ Total de questoes resolvidas: 234
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#79 Word Search](https://leetcode.com/problems/word-search/)
+  - Question ID: 79
+  - Arquivo: `problems/medium/79_word-search.py`
+  - Resolvido em: 22:30 - 14/09/26
 
 - [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   - Question ID: 74
