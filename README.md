@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 239
+Total de questoes resolvidas: 240
 
 ### Easy
 
@@ -784,6 +784,11 @@ Total de questoes resolvidas: 239
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1832 Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/)
+  - Question ID: 1832
+  - Arquivo: `problems/hard/1713_minimum-operations-to-make-a-subsequence.py`
+  - Resolvido em: 23:00 - 15/09/26
 
 - [#1550 Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)
   - Question ID: 1550
