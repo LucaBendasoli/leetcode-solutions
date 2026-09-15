@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 236
+Total de questoes resolvidas: 237
 
 ### Easy
+
+- [#191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+  - Question ID: 191
+  - Arquivo: `problems/easy/191_number-of-1-bits.py`
+  - Resolvido em: 11:00 - 15/09/26
 
 - [#108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
   - Question ID: 108
