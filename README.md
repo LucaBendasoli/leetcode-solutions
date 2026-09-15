@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 237
+Total de questoes resolvidas: 238
 
 ### Easy
 
@@ -332,6 +332,11 @@ Total de questoes resolvidas: 237
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#464 Can I Win](https://leetcode.com/problems/can-i-win/)
+  - Question ID: 464
+  - Arquivo: `problems/medium/464_can-i-win.py`
+  - Resolvido em: 11:32 - 15/09/26
 
 - [#79 Word Search](https://leetcode.com/problems/word-search/)
   - Question ID: 79
