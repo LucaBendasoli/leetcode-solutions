@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 238
+Total de questoes resolvidas: 239
 
 ### Easy
 
@@ -332,6 +332,11 @@ Total de questoes resolvidas: 238
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#406 Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+  - Question ID: 406
+  - Arquivo: `problems/medium/406_queue-reconstruction-by-height.py`
+  - Resolvido em: 21:30 - 15/09/26
 
 - [#464 Can I Win](https://leetcode.com/problems/can-i-win/)
   - Question ID: 464
