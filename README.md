@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 243
+Total de questoes resolvidas: 244
 
 ### Easy
 
@@ -332,6 +332,11 @@ Total de questoes resolvidas: 243
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - Question ID: 22
+  - Arquivo: `problems/medium/22_generate-parentheses.py`
+  - Resolvido em: 22:00 - 16/09/26
 
 - [#343 Integer Break](https://leetcode.com/problems/integer-break/)
   - Question ID: 343
