@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 244
+Total de questoes resolvidas: 245
 
 ### Easy
+
+- [#268 Missing Number](https://leetcode.com/problems/missing-number/)
+  - Question ID: 268
+  - Arquivo: `problems/easy/268_missing-number.py`
+  - Resolvido em: 23:00 - 16/09/26
 
 - [#191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
   - Question ID: 191
