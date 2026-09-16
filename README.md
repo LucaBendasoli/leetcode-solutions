@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 240
+Total de questoes resolvidas: 241
 
 ### Easy
 
@@ -784,6 +784,11 @@ Total de questoes resolvidas: 240
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1617 Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+  - Question ID: 1617
+  - Arquivo: `problems/hard/1510_stone-game-iv.py`
+  - Resolvido em: 10:00 - 16/09/26
 
 - [#1832 Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/)
   - Question ID: 1832
