@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 241
+Total de questoes resolvidas: 242
 
 ### Easy
 
@@ -784,6 +784,11 @@ Total de questoes resolvidas: 241
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#41 First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+  - Question ID: 41
+  - Arquivo: `problems/hard/41_first-missing-positive.py`
+  - Resolvido em: 10:44 - 16/09/26
 
 - [#1617 Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
   - Question ID: 1617
