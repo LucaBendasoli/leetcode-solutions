@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 242
+Total de questoes resolvidas: 243
 
 ### Easy
 
@@ -332,6 +332,11 @@ Total de questoes resolvidas: 242
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#343 Integer Break](https://leetcode.com/problems/integer-break/)
+  - Question ID: 343
+  - Arquivo: `problems/medium/343_integer-break.py`
+  - Resolvido em: 11:05 - 16/09/26
 
 - [#406 Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
   - Question ID: 406
