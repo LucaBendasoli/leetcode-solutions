@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 245
+Total de questoes resolvidas: 246
 
 ### Easy
 
@@ -337,6 +337,11 @@ Total de questoes resolvidas: 245
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#396 Rotate Function](https://leetcode.com/problems/rotate-function/)
+  - Question ID: 396
+  - Arquivo: `problems/medium/396_rotate-function.py`
+  - Resolvido em: 23:03 - 17/09/26
 
 - [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
   - Question ID: 22
