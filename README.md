@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 248
+Total de questoes resolvidas: 249
 
 ### Easy
 
@@ -804,6 +804,11 @@ Total de questoes resolvidas: 248
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+  - Question ID: 37
+  - Arquivo: `problems/hard/37_sudoku-solver.py`
+  - Resolvido em: 10:09 - 18/09/26
 
 - [#1957 Closest Room](https://leetcode.com/problems/closest-room/)
   - Question ID: 1957
