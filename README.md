@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 250
+Total de questoes resolvidas: 251
 
 ### Easy
 
@@ -342,6 +342,11 @@ Total de questoes resolvidas: 250
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#852 Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
+  - Question ID: 852
+  - Arquivo: `problems/medium/825_friends-of-appropriate-ages.py`
+  - Resolvido em: 20:56 - 18/09/26
 
 - [#396 Rotate Function](https://leetcode.com/problems/rotate-function/)
   - Question ID: 396
