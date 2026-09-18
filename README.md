@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 249
+Total de questoes resolvidas: 250
 
 ### Easy
+
+- [#1062 Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
+  - Question ID: 1062
+  - Arquivo: `problems/easy/1013_partition-array-into-three-parts-with-equal-sum.py`
+  - Resolvido em: 20:35 - 18/09/26
 
 - [#268 Missing Number](https://leetcode.com/problems/missing-number/)
   - Question ID: 268
