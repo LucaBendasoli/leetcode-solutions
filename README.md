@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 246
+Total de questoes resolvidas: 247
 
 ### Easy
 
@@ -804,6 +804,11 @@ Total de questoes resolvidas: 246
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1499 Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+  - Question ID: 1499
+  - Arquivo: `problems/hard/1383_maximum-performance-of-a-team.py`
+  - Resolvido em: 00:32 - 18/09/26
 
 - [#41 First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
   - Question ID: 41
