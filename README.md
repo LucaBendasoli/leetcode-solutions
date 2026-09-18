@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 247
+Total de questoes resolvidas: 248
 
 ### Easy
 
@@ -804,6 +804,11 @@ Total de questoes resolvidas: 247
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1957 Closest Room](https://leetcode.com/problems/closest-room/)
+  - Question ID: 1957
+  - Arquivo: `problems/hard/1847_closest-room.py`
+  - Resolvido em: 01:07 - 18/09/26
 
 - [#1499 Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
   - Question ID: 1499
