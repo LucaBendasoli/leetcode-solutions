@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 251
+Total de questoes resolvidas: 252
 
 ### Easy
 
@@ -342,6 +342,11 @@ Total de questoes resolvidas: 251
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+  - Question ID: 386
+  - Arquivo: `problems/medium/386_lexicographical-numbers.py`
+  - Resolvido em: 19:00 - 19/09/26
 
 - [#852 Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
   - Question ID: 852
