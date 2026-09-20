@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 252
+Total de questoes resolvidas: 253
 
 ### Easy
+
+- [#448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+  - Question ID: 448
+  - Arquivo: `problems/easy/448_find-all-numbers-disappeared-in-an-array.py`
+  - Resolvido em: 17:00 - 20/09/26
 
 - [#1062 Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
   - Question ID: 1062
