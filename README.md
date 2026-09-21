@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 255
+Total de questoes resolvidas: 256
 
 ### Easy
 
@@ -824,6 +824,11 @@ Total de questoes resolvidas: 255
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#480 Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+  - Question ID: 480
+  - Arquivo: `problems/hard/480_sliding-window-median.py`
+  - Resolvido em: 22:31 - 21/09/26
 
 - [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
   - Question ID: 76
