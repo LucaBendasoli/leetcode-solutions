@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 254
+Total de questoes resolvidas: 255
 
 ### Easy
 
@@ -824,6 +824,11 @@ Total de questoes resolvidas: 254
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+  - Question ID: 76
+  - Arquivo: `problems/hard/76_minimum-window-substring.py`
+  - Resolvido em: 22:00 - 21/09/26
 
 - [#2198 Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
   - Question ID: 2198
