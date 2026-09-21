@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 256
+Total de questoes resolvidas: 257
 
 ### Easy
 
@@ -347,6 +347,11 @@ Total de questoes resolvidas: 256
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#48 Rotate Image](https://leetcode.com/problems/rotate-image/)
+  - Question ID: 48
+  - Arquivo: `problems/medium/48_rotate-image.py`
+  - Resolvido em: 23:00 - 21/09/26
 
 - [#386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
   - Question ID: 386
