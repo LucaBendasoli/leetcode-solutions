@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 253
+Total de questoes resolvidas: 254
 
 ### Easy
 
@@ -824,6 +824,11 @@ Total de questoes resolvidas: 253
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2198 Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
+  - Question ID: 2198
+  - Arquivo: `problems/hard/2076_process-restricted-friend-requests.py`
+  - Resolvido em: 11:01 - 21/09/26
 
 - [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
   - Question ID: 37
