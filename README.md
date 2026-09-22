@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 261
+Total de questoes resolvidas: 262
 
 ### Easy
 
@@ -844,6 +844,11 @@ Total de questoes resolvidas: 261
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1343 Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)
+  - Question ID: 1343
+  - Arquivo: `problems/hard/1223_dice-roll-simulation.py`
+  - Resolvido em: 23:00 - 22/09/26
 
 - [#1300 Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
   - Question ID: 1300
