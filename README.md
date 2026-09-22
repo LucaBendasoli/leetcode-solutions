@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 260
+Total de questoes resolvidas: 261
 
 ### Easy
 
@@ -844,6 +844,11 @@ Total de questoes resolvidas: 260
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1300 Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+  - Question ID: 1300
+  - Arquivo: `problems/hard/1192_critical-connections-in-a-network.py`
+  - Resolvido em: 22:11 - 22/09/26
 
 - [#480 Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
   - Question ID: 480
