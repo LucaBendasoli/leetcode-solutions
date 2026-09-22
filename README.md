@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 257
+Total de questoes resolvidas: 258
 
 ### Easy
+
+- [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+  - Question ID: 225
+  - Arquivo: `problems/easy/225_implement-stack-using-queues.py`
+  - Resolvido em: 11:01 - 22/09/26
 
 - [#448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   - Question ID: 448
