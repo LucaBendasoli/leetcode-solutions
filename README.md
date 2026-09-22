@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 259
+Total de questoes resolvidas: 260
 
 ### Easy
 
@@ -352,6 +352,11 @@ Total de questoes resolvidas: 259
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+  - Question ID: 371
+  - Arquivo: `problems/medium/371_sum-of-two-integers.py`
+  - Resolvido em: 21:46 - 22/09/26
 
 - [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - Question ID: 279
