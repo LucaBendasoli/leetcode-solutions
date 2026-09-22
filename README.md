@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 258
+Total de questoes resolvidas: 259
 
 ### Easy
 
@@ -352,6 +352,11 @@ Total de questoes resolvidas: 258
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+  - Question ID: 279
+  - Arquivo: `problems/medium/279_perfect-squares.py`
+  - Resolvido em: 11:27 - 22/09/26
 
 - [#48 Rotate Image](https://leetcode.com/problems/rotate-image/)
   - Question ID: 48
