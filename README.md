@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 264
+Total de questoes resolvidas: 265
 
 ### Easy
+
+- [#228 Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+  - Question ID: 228
+  - Arquivo: `problems/easy/228_summary-ranges.py`
+  - Resolvido em: 11:08 - 23/09/26
 
 - [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
   - Question ID: 225
