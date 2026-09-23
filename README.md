@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 265
+Total de questoes resolvidas: 266
 
 ### Easy
 
@@ -357,6 +357,11 @@ Total de questoes resolvidas: 265
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#18 4Sum](https://leetcode.com/problems/4sum/)
+  - Question ID: 18
+  - Arquivo: `problems/medium/18_4sum.py`
+  - Resolvido em: 22:02 - 23/09/26
 
 - [#227 Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
   - Question ID: 227
