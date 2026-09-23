@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 266
+Total de questoes resolvidas: 267
 
 ### Easy
 
@@ -357,6 +357,11 @@ Total de questoes resolvidas: 266
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+  - Question ID: 452
+  - Arquivo: `problems/medium/452_minimum-number-of-arrows-to-burst-balloons.py`
+  - Resolvido em: 23:00 - 23/09/26
 
 - [#18 4Sum](https://leetcode.com/problems/4sum/)
   - Question ID: 18
