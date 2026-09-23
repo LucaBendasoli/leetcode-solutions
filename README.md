@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 262
+Total de questoes resolvidas: 263
 
 ### Easy
 
@@ -844,6 +844,11 @@ Total de questoes resolvidas: 262
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2307 Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
+  - Question ID: 2307
+  - Arquivo: `problems/hard/2197_replace-non-coprime-numbers-in-array.py`
+  - Resolvido em: 10:00 - 23/09/26
 
 - [#1343 Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)
   - Question ID: 1343
