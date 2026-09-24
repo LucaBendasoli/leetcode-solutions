@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 268
+Total de questoes resolvidas: 269
 
 ### Easy
 
@@ -362,6 +362,11 @@ Total de questoes resolvidas: 268
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#399 Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+  - Question ID: 399
+  - Arquivo: `problems/medium/399_evaluate-division.py`
+  - Resolvido em: 22:04 - 24/09/26
 
 - [#452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   - Question ID: 452
