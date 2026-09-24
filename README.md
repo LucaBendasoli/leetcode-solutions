@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 269
+Total de questoes resolvidas: 270
 
 ### Easy
 
@@ -362,6 +362,11 @@ Total de questoes resolvidas: 269
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#413 Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+  - Question ID: 413
+  - Arquivo: `problems/medium/413_arithmetic-slices.py`
+  - Resolvido em: 23:00 - 24/09/26
 
 - [#399 Evaluate Division](https://leetcode.com/problems/evaluate-division/)
   - Question ID: 399
