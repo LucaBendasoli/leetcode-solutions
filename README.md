@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 267
+Total de questoes resolvidas: 268
 
 ### Easy
+
+- [#889 Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+  - Question ID: 889
+  - Arquivo: `problems/easy/859_buddy-strings.py`
+  - Resolvido em: 11:48 - 24/09/26
 
 - [#228 Summary Ranges](https://leetcode.com/problems/summary-ranges/)
   - Question ID: 228
