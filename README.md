@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 273
+Total de questoes resolvidas: 274
 
 ### Easy
 
@@ -884,6 +884,11 @@ Total de questoes resolvidas: 273
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1522 Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+  - Question ID: 1522
+  - Arquivo: `problems/hard/1406_stone-game-iii.py`
+  - Resolvido em: 11:02 - 25/09/26
 
 - [#632 Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
   - Question ID: 632
