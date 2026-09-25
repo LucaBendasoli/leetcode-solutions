@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 271
+Total de questoes resolvidas: 272
 
 ### Easy
 
@@ -879,6 +879,11 @@ Total de questoes resolvidas: 271
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#632 Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+  - Question ID: 632
+  - Arquivo: `problems/hard/632_smallest-range-covering-elements-from-k-lists.py`
+  - Resolvido em: 01:01 - 25/09/26
 
 - [#814 Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)
   - Question ID: 814
