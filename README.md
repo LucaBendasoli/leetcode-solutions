@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 274
+Total de questoes resolvidas: 275
 
 ### Easy
+
+- [#961 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+  - Question ID: 961
+  - Arquivo: `problems/easy/925_long-pressed-name.py`
+  - Resolvido em: 20:34 - 25/09/26
 
 - [#889 Buddy Strings](https://leetcode.com/problems/buddy-strings/)
   - Question ID: 889
