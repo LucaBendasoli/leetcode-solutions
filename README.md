@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 270
+Total de questoes resolvidas: 271
 
 ### Easy
 
@@ -879,6 +879,11 @@ Total de questoes resolvidas: 270
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#814 Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)
+  - Question ID: 814
+  - Arquivo: `problems/hard/798_smallest-rotation-with-highest-score.py`
+  - Resolvido em: 00:37 - 25/09/26
 
 - [#2307 Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
   - Question ID: 2307
