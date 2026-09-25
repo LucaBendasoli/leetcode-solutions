@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 275
+Total de questoes resolvidas: 276
 
 ### Easy
 
@@ -367,6 +367,11 @@ Total de questoes resolvidas: 275
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#39 Combination Sum](https://leetcode.com/problems/combination-sum/)
+  - Question ID: 39
+  - Arquivo: `problems/medium/39_combination-sum.py`
+  - Resolvido em: 20:55 - 25/09/26
 
 - [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
   - Question ID: 24
