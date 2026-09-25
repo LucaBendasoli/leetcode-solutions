@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 272
+Total de questoes resolvidas: 273
 
 ### Easy
 
@@ -362,6 +362,11 @@ Total de questoes resolvidas: 272
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  - Question ID: 24
+  - Arquivo: `problems/medium/24_swap-nodes-in-pairs.py`
+  - Resolvido em: 10:04 - 25/09/26
 
 - [#413 Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
   - Question ID: 413
