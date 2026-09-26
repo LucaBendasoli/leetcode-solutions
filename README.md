@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 276
+Total de questoes resolvidas: 277
 
 ### Easy
 
@@ -367,6 +367,11 @@ Total de questoes resolvidas: 276
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#99 Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+  - Question ID: 99
+  - Arquivo: `problems/medium/99_recover-binary-search-tree.py`
+  - Resolvido em: 19:10 - 26/09/26
 
 - [#39 Combination Sum](https://leetcode.com/problems/combination-sum/)
   - Question ID: 39
