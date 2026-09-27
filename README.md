@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 277
+Total de questoes resolvidas: 278
 
 ### Easy
 
@@ -367,6 +367,11 @@ Total de questoes resolvidas: 277
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+  - Question ID: 36
+  - Arquivo: `problems/medium/36_valid-sudoku.py`
+  - Resolvido em: 17:12 - 27/09/26
 
 - [#99 Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
   - Question ID: 99
