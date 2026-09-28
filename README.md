@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 281
+Total de questoes resolvidas: 282
 
 ### Easy
+
+- [#144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+  - Question ID: 144
+  - Arquivo: `problems/easy/144_binary-tree-preorder-traversal.py`
+  - Resolvido em: 23:00 - 28/09/26
 
 - [#961 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
   - Question ID: 961
