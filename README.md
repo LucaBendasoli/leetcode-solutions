@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 280
+Total de questoes resolvidas: 281
 
 ### Easy
 
@@ -367,6 +367,11 @@ Total de questoes resolvidas: 280
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#38 Count and Say](https://leetcode.com/problems/count-and-say/)
+  - Question ID: 38
+  - Arquivo: `problems/medium/38_count-and-say.py`
+  - Resolvido em: 22:30 - 28/09/26
 
 - [#36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
   - Question ID: 36
