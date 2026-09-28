@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 279
+Total de questoes resolvidas: 280
 
 ### Easy
 
@@ -904,6 +904,11 @@ Total de questoes resolvidas: 279
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2060 Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)
+  - Question ID: 2060
+  - Arquivo: `problems/hard/1932_merge-bsts-to-create-single-bst.py`
+  - Resolvido em: 22:06 - 28/09/26
 
 - [#1503 Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
   - Question ID: 1503
