@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 278
+Total de questoes resolvidas: 279
 
 ### Easy
 
@@ -904,6 +904,11 @@ Total de questoes resolvidas: 278
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1503 Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+  - Question ID: 1503
+  - Arquivo: `problems/hard/1402_reducing-dishes.py`
+  - Resolvido em: 11:22 - 28/09/26
 
 - [#1522 Stone Game III](https://leetcode.com/problems/stone-game-iii/)
   - Question ID: 1522
