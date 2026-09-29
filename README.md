@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 286
+Total de questoes resolvidas: 287
 
 ### Easy
 
@@ -929,6 +929,11 @@ Total de questoes resolvidas: 286
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2360 Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)
+  - Question ID: 2360
+  - Arquivo: `problems/hard/2272_substring-with-largest-variance.py`
+  - Resolvido em: 23:01 - 29/09/26
 
 - [#964 Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
   - Question ID: 964
