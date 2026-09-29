@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 284
+Total de questoes resolvidas: 285
 
 ### Easy
 
@@ -372,6 +372,11 @@ Total de questoes resolvidas: 284
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#436 Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+  - Question ID: 436
+  - Arquivo: `problems/medium/436_find-right-interval.py`
+  - Resolvido em: 21:30 - 29/09/26
 
 - [#43 Multiply Strings](https://leetcode.com/problems/multiply-strings/)
   - Question ID: 43
