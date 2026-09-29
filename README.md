@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 283
+Total de questoes resolvidas: 284
 
 ### Easy
 
@@ -372,6 +372,11 @@ Total de questoes resolvidas: 283
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#43 Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+  - Question ID: 43
+  - Arquivo: `problems/medium/43_multiply-strings.py`
+  - Resolvido em: 11:30 - 29/09/26
 
 - [#16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
   - Question ID: 16
