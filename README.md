@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 285
+Total de questoes resolvidas: 286
 
 ### Easy
 
@@ -929,6 +929,11 @@ Total de questoes resolvidas: 285
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#964 Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+  - Question ID: 964
+  - Arquivo: `problems/hard/928_minimize-malware-spread-ii.py`
+  - Resolvido em: 22:06 - 29/09/26
 
 - [#2060 Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)
   - Question ID: 2060
