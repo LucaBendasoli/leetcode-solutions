@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 282
+Total de questoes resolvidas: 283
 
 ### Easy
 
@@ -372,6 +372,11 @@ Total de questoes resolvidas: 282
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+  - Question ID: 16
+  - Arquivo: `problems/medium/16_3sum-closest.py`
+  - Resolvido em: 11:00 - 29/09/26
 
 - [#38 Count and Say](https://leetcode.com/problems/count-and-say/)
   - Question ID: 38
