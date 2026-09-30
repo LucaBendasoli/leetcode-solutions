@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 289
+Total de questoes resolvidas: 290
 
 ### Easy
 
@@ -372,6 +372,11 @@ Total de questoes resolvidas: 289
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  - Question ID: 45
+  - Arquivo: `problems/medium/45_jump-game-ii.py`
+  - Resolvido em: 22:01 - 30/09/26
 
 - [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   - Question ID: 416
