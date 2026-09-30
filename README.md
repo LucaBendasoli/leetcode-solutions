@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 287
+Total de questoes resolvidas: 288
 
 ### Easy
 
@@ -929,6 +929,11 @@ Total de questoes resolvidas: 287
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#918 Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+  - Question ID: 918
+  - Arquivo: `problems/hard/882_reachable-nodes-in-subdivided-graph.py`
+  - Resolvido em: 10:26 - 30/09/26
 
 - [#2360 Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)
   - Question ID: 2360
