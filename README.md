@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 290
+Total de questoes resolvidas: 291
 
 ### Easy
 
@@ -372,6 +372,11 @@ Total de questoes resolvidas: 290
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
+  - Question ID: 365
+  - Arquivo: `problems/medium/365_water-and-jug-problem.py`
+  - Resolvido em: 23:06 - 30/09/26
 
 - [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
   - Question ID: 45
