@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 288
+Total de questoes resolvidas: 289
 
 ### Easy
 
@@ -372,6 +372,11 @@ Total de questoes resolvidas: 288
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+  - Question ID: 416
+  - Arquivo: `problems/medium/416_partition-equal-subset-sum.py`
+  - Resolvido em: 11:04 - 30/09/26
 
 - [#436 Find Right Interval](https://leetcode.com/problems/find-right-interval/)
   - Question ID: 436
