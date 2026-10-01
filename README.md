@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 292
+Total de questoes resolvidas: 293
 
 ### Easy
 
@@ -949,6 +949,11 @@ Total de questoes resolvidas: 292
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+  - Question ID: 132
+  - Arquivo: `problems/hard/132_palindrome-partitioning-ii.py`
+  - Resolvido em: 22:03 - 01/10/26
 
 - [#918 Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
   - Question ID: 918
