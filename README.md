@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 291
+Total de questoes resolvidas: 292
 
 ### Easy
+
+- [#1858 Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
+  - Question ID: 1858
+  - Arquivo: `problems/easy/1736_latest-time-by-replacing-hidden-digits.py`
+  - Resolvido em: 11:48 - 01/10/26
 
 - [#144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
   - Question ID: 144
