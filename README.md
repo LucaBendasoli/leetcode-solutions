@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 293
+Total de questoes resolvidas: 294
 
 ### Easy
 
@@ -377,6 +377,11 @@ Total de questoes resolvidas: 293
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#120 Triangle](https://leetcode.com/problems/triangle/)
+  - Question ID: 120
+  - Arquivo: `problems/medium/120_triangle.py`
+  - Resolvido em: 23:02 - 01/10/26
 
 - [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
   - Question ID: 365
