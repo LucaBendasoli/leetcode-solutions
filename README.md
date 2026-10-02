@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 294
+Total de questoes resolvidas: 295
 
 ### Easy
 
@@ -954,6 +954,11 @@ Total de questoes resolvidas: 294
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1676 Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)
+  - Question ID: 1676
+  - Arquivo: `problems/hard/1553_minimum-number-of-days-to-eat-n-oranges.py`
+  - Resolvido em: 00:37 - 02/10/26
 
 - [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
   - Question ID: 132
