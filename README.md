@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 296
+Total de questoes resolvidas: 297
 
 ### Easy
+
+- [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  - Question ID: 70
+  - Arquivo: `problems/easy/70_climbing-stairs.py`
+  - Resolvido em: 10:00 - 02/10/26
 
 - [#1858 Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)
   - Question ID: 1858
