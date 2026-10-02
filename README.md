@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 295
+Total de questoes resolvidas: 296
 
 ### Easy
 
@@ -954,6 +954,11 @@ Total de questoes resolvidas: 295
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
+  - Question ID: 87
+  - Arquivo: `problems/hard/87_scramble-string.py`
+  - Resolvido em: 01:08 - 02/10/26
 
 - [#1676 Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)
   - Question ID: 1676
