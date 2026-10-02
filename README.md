@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 298
+Total de questoes resolvidas: 299
 
 ### Easy
+
+- [#1128 Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+  - Question ID: 1128
+  - Arquivo: `problems/easy/1047_remove-all-adjacent-duplicates-in-string.py`
+  - Resolvido em: 20:34 - 02/10/26
 
 - [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
   - Question ID: 70
