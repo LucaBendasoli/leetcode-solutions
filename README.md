@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 297
+Total de questoes resolvidas: 298
 
 ### Easy
 
@@ -959,6 +959,11 @@ Total de questoes resolvidas: 297
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#446 Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+  - Question ID: 446
+  - Arquivo: `problems/hard/446_arithmetic-slices-ii-subsequence.py`
+  - Resolvido em: 11:00 - 02/10/26
 
 - [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
   - Question ID: 87
