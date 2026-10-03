@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 300
+Total de questoes resolvidas: 301
 
 ### Easy
 
@@ -387,6 +387,11 @@ Total de questoes resolvidas: 300
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
+  - Question ID: 143
+  - Arquivo: `problems/medium/143_reorder-list.py`
+  - Resolvido em: 19:01 - 03/10/26
 
 - [#395 Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - Question ID: 395
