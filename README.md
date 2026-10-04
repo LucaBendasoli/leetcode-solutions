@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 301
+Total de questoes resolvidas: 302
 
 ### Easy
 
@@ -387,6 +387,11 @@ Total de questoes resolvidas: 301
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+  - Question ID: 106
+  - Arquivo: `problems/medium/106_construct-binary-tree-from-inorder-and-postorder-traversal.py`
+  - Resolvido em: 17:02 - 04/10/26
 
 - [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
   - Question ID: 143
