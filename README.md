@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 302
+Total de questoes resolvidas: 303
 
 ### Easy
 
@@ -979,6 +979,11 @@ Total de questoes resolvidas: 302
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#732 My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+  - Question ID: 732
+  - Arquivo: `problems/hard/732_my-calendar-iii.py`
+  - Resolvido em: 11:00 - 05/10/26
 
 - [#446 Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
   - Question ID: 446
