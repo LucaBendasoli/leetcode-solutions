@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 303
+Total de questoes resolvidas: 304
 
 ### Easy
 
@@ -979,6 +979,11 @@ Total de questoes resolvidas: 303
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#973 Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
+  - Question ID: 973
+  - Arquivo: `problems/hard/936_stamping-the-sequence.py`
+  - Resolvido em: 22:07 - 05/10/26
 
 - [#732 My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
   - Question ID: 732
