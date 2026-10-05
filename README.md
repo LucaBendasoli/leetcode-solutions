@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 304
+Total de questoes resolvidas: 305
 
 ### Easy
 
@@ -387,6 +387,11 @@ Total de questoes resolvidas: 304
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#385 Mini Parser](https://leetcode.com/problems/mini-parser/)
+  - Question ID: 385
+  - Arquivo: `problems/medium/385_mini-parser.py`
+  - Resolvido em: 22:35 - 05/10/26
 
 - [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
   - Question ID: 106
