@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 306
+Total de questoes resolvidas: 307
 
 ### Easy
 
@@ -387,6 +387,11 @@ Total de questoes resolvidas: 306
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#6 Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+  - Question ID: 6
+  - Arquivo: `problems/medium/6_zigzag-conversion.py`
+  - Resolvido em: 11:03 - 06/10/26
 
 - [#19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - Question ID: 19
