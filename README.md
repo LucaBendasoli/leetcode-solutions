@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 310
+Total de questoes resolvidas: 311
 
 ### Easy
 
@@ -1004,6 +1004,11 @@ Total de questoes resolvidas: 310
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1262 Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+  - Question ID: 1262
+  - Arquivo: `problems/hard/1157_online-majority-element-in-subarray.py`
+  - Resolvido em: 23:01 - 06/10/26
 
 - [#1145 Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
   - Question ID: 1145
