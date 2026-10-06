@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 307
+Total de questoes resolvidas: 308
 
 ### Easy
+
+- [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+  - Question ID: 495
+  - Arquivo: `problems/easy/495_teemo-attacking.py`
+  - Resolvido em: 11:28 - 06/10/26
 
 - [#1128 Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
   - Question ID: 1128
