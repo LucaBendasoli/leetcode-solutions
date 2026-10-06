@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 309
+Total de questoes resolvidas: 310
 
 ### Easy
 
@@ -1004,6 +1004,11 @@ Total de questoes resolvidas: 309
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1145 Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+  - Question ID: 1145
+  - Arquivo: `problems/hard/1074_number-of-submatrices-that-sum-to-target.py`
+  - Resolvido em: 22:00 - 06/10/26
 
 - [#973 Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
   - Question ID: 973
