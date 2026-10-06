@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 308
+Total de questoes resolvidas: 309
 
 ### Easy
 
@@ -392,6 +392,11 @@ Total de questoes resolvidas: 308
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#443 String Compression](https://leetcode.com/problems/string-compression/)
+  - Question ID: 443
+  - Arquivo: `problems/medium/443_string-compression.py`
+  - Resolvido em: 21:35 - 06/10/26
 
 - [#6 Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
   - Question ID: 6
