@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 315
+Total de questoes resolvidas: 316
 
 ### Easy
 
@@ -392,6 +392,11 @@ Total de questoes resolvidas: 315
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  - Question ID: 17
+  - Arquivo: `problems/medium/17_letter-combinations-of-a-phone-number.py`
+  - Resolvido em: 23:00 - 07/10/26
 
 - [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
   - Question ID: 289
