@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 313
+Total de questoes resolvidas: 314
 
 ### Easy
 
@@ -392,6 +392,11 @@ Total de questoes resolvidas: 313
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
+  - Question ID: 289
+  - Arquivo: `problems/medium/289_game-of-life.py`
+  - Resolvido em: 11:01 - 07/10/26
 
 - [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
   - Question ID: 62
