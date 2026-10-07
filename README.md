@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 312
+Total de questoes resolvidas: 313
 
 ### Easy
 
@@ -392,6 +392,11 @@ Total de questoes resolvidas: 312
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
+  - Question ID: 62
+  - Arquivo: `problems/medium/62_unique-paths.py`
+  - Resolvido em: 10:30 - 07/10/26
 
 - [#443 String Compression](https://leetcode.com/problems/string-compression/)
   - Question ID: 443
