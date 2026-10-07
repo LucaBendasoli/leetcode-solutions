@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 311
+Total de questoes resolvidas: 312
 
 ### Easy
 
@@ -1004,6 +1004,11 @@ Total de questoes resolvidas: 311
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1517 Restore The Array](https://leetcode.com/problems/restore-the-array/)
+  - Question ID: 1517
+  - Arquivo: `problems/hard/1416_restore-the-array.py`
+  - Resolvido em: 10:13 - 07/10/26
 
 - [#1262 Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
   - Question ID: 1262
