@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 314
+Total de questoes resolvidas: 315
 
 ### Easy
 
@@ -1014,6 +1014,11 @@ Total de questoes resolvidas: 314
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+  - Question ID: 354
+  - Arquivo: `problems/hard/354_russian-doll-envelopes.py`
+  - Resolvido em: 22:00 - 07/10/26
 
 - [#1517 Restore The Array](https://leetcode.com/problems/restore-the-array/)
   - Question ID: 1517
