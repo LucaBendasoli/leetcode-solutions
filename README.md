@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 317
+Total de questoes resolvidas: 318
 
 ### Easy
 
@@ -1024,6 +1024,11 @@ Total de questoes resolvidas: 317
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2125 GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)
+  - Question ID: 2125
+  - Arquivo: `problems/hard/1998_gcd-sort-of-an-array.py`
+  - Resolvido em: 11:08 - 09/10/26
 
 - [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
   - Question ID: 354
