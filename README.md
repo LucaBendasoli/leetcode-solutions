@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 316
+Total de questoes resolvidas: 317
 
 ### Easy
 
@@ -392,6 +392,11 @@ Total de questoes resolvidas: 316
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#456 132 Pattern](https://leetcode.com/problems/132-pattern/)
+  - Question ID: 456
+  - Arquivo: `problems/medium/456_132-pattern.py`
+  - Resolvido em: 10:01 - 09/10/26
 
 - [#17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
   - Question ID: 17
