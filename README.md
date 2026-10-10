@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 319
+Total de questoes resolvidas: 320
 
 ### Easy
 
@@ -392,6 +392,11 @@ Total de questoes resolvidas: 319
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#380 Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+  - Question ID: 380
+  - Arquivo: `problems/medium/380_insert-delete-getrandom-o1.py`
+  - Resolvido em: 19:02 - 10/10/26
 
 - [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
   - Question ID: 103
