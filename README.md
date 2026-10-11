@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 320
+Total de questoes resolvidas: 321
 
 ### Easy
+
+- [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+  - Question ID: 441
+  - Arquivo: `problems/easy/441_arranging-coins.py`
+  - Resolvido em: 17:01 - 11/10/26
 
 - [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
   - Question ID: 495
