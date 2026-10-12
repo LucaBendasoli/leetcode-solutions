@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 324
+Total de questoes resolvidas: 325
 
 ### Easy
 
@@ -402,6 +402,11 @@ Total de questoes resolvidas: 324
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+  - Question ID: 107
+  - Arquivo: `problems/medium/107_binary-tree-level-order-traversal-ii.py`
+  - Resolvido em: 23:00 - 12/10/26
 
 - [#380 Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
   - Question ID: 380
