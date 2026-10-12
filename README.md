@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 321
+Total de questoes resolvidas: 322
 
 ### Easy
 
@@ -1039,6 +1039,11 @@ Total de questoes resolvidas: 321
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1936 Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)
+  - Question ID: 1936
+  - Arquivo: `problems/hard/1808_maximize-number-of-nice-divisors.py`
+  - Resolvido em: 11:01 - 12/10/26
 
 - [#2125 GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)
   - Question ID: 2125
