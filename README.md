@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 322
+Total de questoes resolvidas: 323
 
 ### Easy
 
@@ -1039,6 +1039,11 @@ Total de questoes resolvidas: 322
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1424 Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)
+  - Question ID: 1424
+  - Arquivo: `problems/hard/1298_maximum-candies-you-can-get-from-boxes.py`
+  - Resolvido em: 22:03 - 12/10/26
 
 - [#1936 Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)
   - Question ID: 1936
