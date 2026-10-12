@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 323
+Total de questoes resolvidas: 324
 
 ### Easy
+
+- [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+  - Question ID: 345
+  - Arquivo: `problems/easy/345_reverse-vowels-of-a-string.py`
+  - Resolvido em: 22:30 - 12/10/26
 
 - [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
   - Question ID: 441
