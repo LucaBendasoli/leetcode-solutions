@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 327
+Total de questoes resolvidas: 328
 
 ### Easy
 
@@ -402,6 +402,11 @@ Total de questoes resolvidas: 327
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#372 Super Pow](https://leetcode.com/problems/super-pow/)
+  - Question ID: 372
+  - Arquivo: `problems/medium/372_super-pow.py`
+  - Resolvido em: 21:31 - 13/10/26
 
 - [#198 House Robber](https://leetcode.com/problems/house-robber/)
   - Question ID: 198
