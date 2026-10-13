@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 325
+Total de questoes resolvidas: 326
 
 ### Easy
 
@@ -402,6 +402,11 @@ Total de questoes resolvidas: 325
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#394 Decode String](https://leetcode.com/problems/decode-string/)
+  - Question ID: 394
+  - Arquivo: `problems/medium/394_decode-string.py`
+  - Resolvido em: 11:01 - 13/10/26
 
 - [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
   - Question ID: 107
