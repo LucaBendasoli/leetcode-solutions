@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 329
+Total de questoes resolvidas: 330
 
 ### Easy
 
@@ -1064,6 +1064,11 @@ Total de questoes resolvidas: 329
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#719 Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+  - Question ID: 719
+  - Arquivo: `problems/hard/719_find-k-th-smallest-pair-distance.py`
+  - Resolvido em: 23:01 - 13/10/26
 
 - [#1185 Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
   - Question ID: 1185
