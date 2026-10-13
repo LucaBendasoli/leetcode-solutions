@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 326
+Total de questoes resolvidas: 327
 
 ### Easy
 
@@ -402,6 +402,11 @@ Total de questoes resolvidas: 326
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#198 House Robber](https://leetcode.com/problems/house-robber/)
+  - Question ID: 198
+  - Arquivo: `problems/medium/198_house-robber.py`
+  - Resolvido em: 11:27 - 13/10/26
 
 - [#394 Decode String](https://leetcode.com/problems/decode-string/)
   - Question ID: 394
