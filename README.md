@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 328
+Total de questoes resolvidas: 329
 
 ### Easy
 
@@ -1064,6 +1064,11 @@ Total de questoes resolvidas: 328
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1185 Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+  - Question ID: 1185
+  - Arquivo: `problems/hard/1095_find-in-mountain-array.py`
+  - Resolvido em: 22:00 - 13/10/26
 
 - [#1424 Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)
   - Question ID: 1424
