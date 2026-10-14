@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 330
+Total de questoes resolvidas: 331
 
 ### Easy
 
@@ -1064,6 +1064,11 @@ Total de questoes resolvidas: 330
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1941 Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
+  - Question ID: 1941
+  - Arquivo: `problems/hard/1830_minimum-number-of-operations-to-make-string-sorted.py`
+  - Resolvido em: 10:03 - 14/10/26
 
 - [#719 Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
   - Question ID: 719
