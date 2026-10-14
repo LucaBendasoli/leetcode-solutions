@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 331
+Total de questoes resolvidas: 332
 
 ### Easy
+
+- [#500 Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+  - Question ID: 500
+  - Arquivo: `problems/easy/500_keyboard-row.py`
+  - Resolvido em: 10:35 - 14/10/26
 
 - [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
   - Question ID: 345
