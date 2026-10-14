@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 333
+Total de questoes resolvidas: 334
 
 ### Easy
 
@@ -412,6 +412,11 @@ Total de questoes resolvidas: 333
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#59 Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+  - Question ID: 59
+  - Arquivo: `problems/medium/59_spiral-matrix-ii.py`
+  - Resolvido em: 22:12 - 14/10/26
 
 - [#372 Super Pow](https://leetcode.com/problems/super-pow/)
   - Question ID: 372
