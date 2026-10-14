@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 334
+Total de questoes resolvidas: 335
 
 ### Easy
 
@@ -412,6 +412,11 @@ Total de questoes resolvidas: 334
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+  - Question ID: 772
+  - Arquivo: `problems/medium/427_construct-quad-tree.py`
+  - Resolvido em: 23:01 - 14/10/26
 
 - [#59 Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
   - Question ID: 59
