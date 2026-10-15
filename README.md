@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 337
+Total de questoes resolvidas: 338
 
 ### Easy
+
+- [#303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+  - Question ID: 303
+  - Arquivo: `problems/easy/303_range-sum-query-immutable.py`
+  - Resolvido em: 23:00 - 15/10/26
 
 - [#67 Add Binary](https://leetcode.com/problems/add-binary/)
   - Question ID: 67
