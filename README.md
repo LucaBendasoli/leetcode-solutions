@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 335
+Total de questoes resolvidas: 336
 
 ### Easy
+
+- [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+  - Question ID: 392
+  - Arquivo: `problems/easy/392_is-subsequence.py`
+  - Resolvido em: 11:47 - 15/10/26
 
 - [#278 First Bad Version](https://leetcode.com/problems/first-bad-version/)
   - Question ID: 278
