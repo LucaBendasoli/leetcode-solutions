@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 336
+Total de questoes resolvidas: 337
 
 ### Easy
+
+- [#67 Add Binary](https://leetcode.com/problems/add-binary/)
+  - Question ID: 67
+  - Arquivo: `problems/easy/67_add-binary.py`
+  - Resolvido em: 22:00 - 15/10/26
 
 - [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
   - Question ID: 392
