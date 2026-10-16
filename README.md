@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 338
+Total de questoes resolvidas: 339
 
 ### Easy
 
@@ -1099,6 +1099,11 @@ Total de questoes resolvidas: 338
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1778 Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)
+  - Question ID: 1778
+  - Arquivo: `problems/hard/1659_maximize-grid-happiness.py`
+  - Resolvido em: 00:35 - 16/10/26
 
 - [#1941 Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
   - Question ID: 1941
