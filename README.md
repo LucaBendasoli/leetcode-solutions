@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 342
+Total de questoes resolvidas: 343
 
 ### Easy
 
@@ -427,6 +427,11 @@ Total de questoes resolvidas: 342
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#784 Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+  - Question ID: 784
+  - Arquivo: `problems/medium/701_insert-into-a-binary-search-tree.py`
+  - Resolvido em: 20:56 - 16/10/26
 
 - [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
   - Question ID: 772
