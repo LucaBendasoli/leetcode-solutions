@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 340
+Total de questoes resolvidas: 341
 
 ### Easy
 
@@ -1099,6 +1099,11 @@ Total de questoes resolvidas: 340
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#233 Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
+  - Question ID: 233
+  - Arquivo: `problems/hard/233_number-of-digit-one.py`
+  - Resolvido em: 10:01 - 16/10/26
 
 - [#1038 Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
   - Question ID: 1038
