@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 339
+Total de questoes resolvidas: 340
 
 ### Easy
 
@@ -1099,6 +1099,11 @@ Total de questoes resolvidas: 339
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1038 Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
+  - Question ID: 1038
+  - Arquivo: `problems/hard/996_number-of-squareful-arrays.py`
+  - Resolvido em: 01:10 - 16/10/26
 
 - [#1778 Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)
   - Question ID: 1778
