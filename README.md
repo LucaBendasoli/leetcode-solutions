@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 341
+Total de questoes resolvidas: 342
 
 ### Easy
 
@@ -1099,6 +1099,11 @@ Total de questoes resolvidas: 341
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1475 Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
+  - Question ID: 1475
+  - Arquivo: `problems/hard/1373_maximum-sum-bst-in-binary-tree.py`
+  - Resolvido em: 11:01 - 16/10/26
 
 - [#233 Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
   - Question ID: 233
