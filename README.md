@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 343
+Total de questoes resolvidas: 344
 
 ### Easy
+
+- [#195 Tenth Line](https://leetcode.com/problems/tenth-line/)
+  - Question ID: 195
+  - Arquivo: `problems/easy/195_tenth-line.py`
+  - Resolvido em: 19:00 - 17/10/26
 
 - [#303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
   - Question ID: 303
