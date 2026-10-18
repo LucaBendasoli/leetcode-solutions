@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 344
+Total de questoes resolvidas: 345
 
 ### Easy
+
+- [#101 Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+  - Question ID: 101
+  - Arquivo: `problems/easy/101_symmetric-tree.py`
+  - Resolvido em: 17:05 - 18/10/26
 
 - [#195 Tenth Line](https://leetcode.com/problems/tenth-line/)
   - Question ID: 195
