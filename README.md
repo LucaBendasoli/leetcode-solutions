@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 347
+Total de questoes resolvidas: 348
 
 ### Easy
 
@@ -437,6 +437,11 @@ Total de questoes resolvidas: 347
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#264 Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+  - Question ID: 264
+  - Arquivo: `problems/medium/264_ugly-number-ii.py`
+  - Resolvido em: 22:30 - 19/10/26
 
 - [#784 Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
   - Question ID: 784
