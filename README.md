@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 346
+Total de questoes resolvidas: 347
 
 ### Easy
 
@@ -1114,6 +1114,11 @@ Total de questoes resolvidas: 346
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1569 Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
+  - Question ID: 1569
+  - Arquivo: `problems/hard/1458_max-dot-product-of-two-subsequences.py`
+  - Resolvido em: 22:03 - 19/10/26
 
 - [#2109 Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)
   - Question ID: 2109
