@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 348
+Total de questoes resolvidas: 349
 
 ### Easy
 
@@ -1119,6 +1119,11 @@ Total de questoes resolvidas: 348
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#407 Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
+  - Question ID: 407
+  - Arquivo: `problems/hard/407_trapping-rain-water-ii.py`
+  - Resolvido em: 23:12 - 19/10/26
 
 - [#1569 Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
   - Question ID: 1569
