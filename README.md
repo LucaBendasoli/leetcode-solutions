@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 345
+Total de questoes resolvidas: 346
 
 ### Easy
 
@@ -1114,6 +1114,11 @@ Total de questoes resolvidas: 345
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2109 Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)
+  - Question ID: 2109
+  - Arquivo: `problems/hard/1982_find-array-given-subset-sums.py`
+  - Resolvido em: 11:05 - 19/10/26
 
 - [#1475 Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
   - Question ID: 1475
