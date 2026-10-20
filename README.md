@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 349
+Total de questoes resolvidas: 350
 
 ### Easy
 
@@ -437,6 +437,11 @@ Total de questoes resolvidas: 349
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
+  - Question ID: 915
+  - Arquivo: `problems/medium/478_generate-random-point-in-a-circle.py`
+  - Resolvido em: 11:04 - 20/10/26
 
 - [#264 Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
   - Question ID: 264
