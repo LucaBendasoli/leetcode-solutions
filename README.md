@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 350
+Total de questoes resolvidas: 351
 
 ### Easy
+
+- [#404 Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+  - Question ID: 404
+  - Arquivo: `problems/easy/404_sum-of-left-leaves.py`
+  - Resolvido em: 11:30 - 20/10/26
 
 - [#101 Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
   - Question ID: 101
