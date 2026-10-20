@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 352
+Total de questoes resolvidas: 353
 
 ### Easy
 
@@ -1134,6 +1134,11 @@ Total de questoes resolvidas: 352
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#2166 Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)
+  - Question ID: 2166
+  - Arquivo: `problems/hard/2056_number-of-valid-move-combinations-on-chessboard.py`
+  - Resolvido em: 22:17 - 20/10/26
 
 - [#407 Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
   - Question ID: 407
