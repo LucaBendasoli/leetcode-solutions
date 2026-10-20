@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 351
+Total de questoes resolvidas: 352
 
 ### Easy
+
+- [#374 Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+  - Question ID: 374
+  - Arquivo: `problems/easy/374_guess-number-higher-or-lower.py`
+  - Resolvido em: 21:37 - 20/10/26
 
 - [#404 Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
   - Question ID: 404
