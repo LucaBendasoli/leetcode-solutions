@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 353
+Total de questoes resolvidas: 354
 
 ### Easy
 
@@ -1134,6 +1134,11 @@ Total de questoes resolvidas: 353
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#30 Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+  - Question ID: 30
+  - Arquivo: `problems/hard/30_substring-with-concatenation-of-all-words.py`
+  - Resolvido em: 23:01 - 20/10/26
 
 - [#2166 Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)
   - Question ID: 2166
