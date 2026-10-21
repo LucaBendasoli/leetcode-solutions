@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 355
+Total de questoes resolvidas: 356
 
 ### Easy
 
@@ -447,6 +447,11 @@ Total de questoes resolvidas: 355
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+  - Question ID: 80
+  - Arquivo: `problems/medium/80_remove-duplicates-from-sorted-array-ii.py`
+  - Resolvido em: 10:31 - 21/10/26
 
 - [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
   - Question ID: 915
