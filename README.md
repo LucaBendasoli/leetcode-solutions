@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 354
+Total de questoes resolvidas: 355
 
 ### Easy
 
@@ -1134,6 +1134,11 @@ Total de questoes resolvidas: 354
   - Resolvido em: 17:52 - 25/05/26
 
 ### Hard
+
+- [#1282 Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)
+  - Question ID: 1282
+  - Arquivo: `problems/hard/1178_number-of-valid-words-for-each-puzzle.py`
+  - Resolvido em: 10:11 - 21/10/26
 
 - [#30 Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
   - Question ID: 30
