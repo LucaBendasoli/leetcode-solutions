@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 357
+Total de questoes resolvidas: 358
 
 ### Easy
 
@@ -447,6 +447,11 @@ Total de questoes resolvidas: 357
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
+  - Question ID: 337
+  - Arquivo: `problems/medium/337_house-robber-iii.py`
+  - Resolvido em: 22:02 - 21/10/26
 
 - [#423 Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
   - Question ID: 423
