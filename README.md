@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 356
+Total de questoes resolvidas: 357
 
 ### Easy
 
@@ -447,6 +447,11 @@ Total de questoes resolvidas: 356
   - Resolvido em: 18:03 - 25/05/26
 
 ### Medium
+
+- [#423 Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
+  - Question ID: 423
+  - Arquivo: `problems/medium/423_reconstruct-original-digits-from-english.py`
+  - Resolvido em: 11:01 - 21/10/26
 
 - [#80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
   - Question ID: 80
